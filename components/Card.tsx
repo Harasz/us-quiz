@@ -53,7 +53,7 @@ const Button = styled.button`
   }
 `;
 
-export const Card = ({ title, id, Image }: CardProps) => {
+export const Card = ({ title, Image }: CardProps) => {
   return (
     <Wrapper>
       <Image />
