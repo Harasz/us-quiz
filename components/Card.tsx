@@ -9,7 +9,7 @@ const Wrapper = styled.section`
   background-color: rgba(255, 255, 255, 0.4);
   margin: 0 12px;
   padding: 24px;
-  max-width: 333px;
+  max-width: 280px;
   margin-bottom: 24px;
   color: #001833;
 
