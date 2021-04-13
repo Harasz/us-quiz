@@ -22,7 +22,7 @@ export const Sub = styled.p`
 export const Heading = () => {
   return (
     <Wrapper>
-      <H1>Losomania na US nie wiem co dac</H1>
+      <H1>Losomania UŚ</H1>
       <Sub>
         Witamy na pokładzie maszyny losującej! Zakładamy, iż po zapoznaniu się z
         ciągiem infografik - któraś ze specjalizacji zainteresowała Cię
