@@ -17,6 +17,7 @@ export const Sub = styled.p`
   color: #001833;
   font-size: 18px;
   text-align: center;
+  font-weight: 600;
 `;
 
 export const Heading = () => {
@@ -24,11 +25,7 @@ export const Heading = () => {
     <Wrapper>
       <H1>Losomania UŚ</H1>
       <Sub>
-        Witamy na pokładzie maszyny losującej! Zakładamy, iż po zapoznaniu się z
-        ciągiem infografik - któraś ze specjalizacji zainteresowała Cię
-        najbardziej… Aby już teraz zapoznać się z kilkoma pojęciami, związanymi
-        z wyżej wymienionymi - kliknij w tę, z którą zechciałbyś poznać się
-        nieco bliżej!
+        Witamy na pokładzie maszyny losującej! <br /> Zakładamy, iż po zapoznaniu się z ciągiem infografik - któraś ze specjalizacji zainteresowała Cię najbardziej… <br />Aby już teraz zaznajomić się z kilkoma pojęciami, związanymi z poprzednio wymienionymi - kliknij w tę, z którą chcesz poznać się nieco bliżej!
       </Sub>
     </Wrapper>
   );
