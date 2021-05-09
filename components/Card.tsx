@@ -53,7 +53,7 @@ const Button = styled.button`
   }
 `;
 
-export const Card = ({ title, Image }: CardProps) => {
+export const Card = ({ title, Image, showModal }: CardProps) => {
   return (
     <Wrapper>
       <Image />
@@ -61,7 +61,7 @@ export const Card = ({ title, Image }: CardProps) => {
         <Subhead>Psychologia</Subhead>
         <Head>{title}</Head>
       </span>
-      <Button>Losuj</Button>
+      <Button onClick={showModal}>Losuj</Button>
     </Wrapper>
   );
 };
@@ -69,5 +69,5 @@ export const Card = ({ title, Image }: CardProps) => {
 export interface CardProps {
   title: string;
   Image: string;
-  id: string;
+  showModal(): void;
 }
