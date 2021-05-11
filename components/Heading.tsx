@@ -25,7 +25,7 @@ export const Heading = () => {
     <Wrapper>
       <H1>Losomania UŚ</H1>
       <Sub>
-        Witamy na pokładzie maszyny losującej! <br /> Zakładamy, iż po zapoznaniu się z ciągiem infografik - któraś ze specjalizacji zainteresowała Cię najbardziej… <br />Aby już teraz zaznajomić się z kilkoma pojęciami, związanymi z poprzednio wymienionymi - kliknij w tę, z którą chcesz poznać się nieco bliżej!
+        Witamy na pokładzie maszyny losującej! <br /> Zakładamy, iż po zapoznaniu się z ciągiem infografik - któraś ze specjalizacji zainteresowała Cię najbardziej… <br />Aby już teraz zaznajomić się z kilkoma pojęciami, związanymi z poprzednio wymienionymi - kliknij w tę, z którą chcesz zapoznać się nieco bliżej!
       </Sub>
     </Wrapper>
   );
