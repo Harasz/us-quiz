@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Question } from "../interfaces";
 
 const Overlay = styled.div`
-  position: absolute;
+  position: fixed;
   left: 0;
   top: 0;
   width: 100vw;
@@ -12,12 +12,13 @@ const Overlay = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.8);
 `;
 
 const Wrapper = styled.div`
-  background-color: white;
-  padding: 32px;
+  background-color: #cceff5;
+  border: 3px solid white;
+  padding: 48px;
   border-radius: 16px;
 
   h2 {
