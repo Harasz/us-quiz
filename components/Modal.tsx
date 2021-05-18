@@ -16,7 +16,7 @@ const Overlay = styled.div`
 `;
 
 const Wrapper = styled.div`
-  background-color: #cceff5;
+  background-color: #d1ecb5;
   border: 3px solid white;
   padding: 48px;
   border-radius: 16px;
