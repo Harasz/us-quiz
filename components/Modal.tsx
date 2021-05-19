@@ -33,13 +33,17 @@ const Wrapper = styled.div`
 const List = styled.div`
   display: flex;
   flex-wrap: wrap;
+
+  @media (max-width: 800px) {
+    flex-direction: column;
+  }
 `;
 
 const Item = styled.div`
   flex: 1;
 
-  :nth-child(2) {
-    margin: 0 32px;
+  :nth-child(1) {
+    margin-right: 128px;
   }
 
   h3 {
@@ -51,14 +55,27 @@ const Item = styled.div`
   p {
     max-width: 300px;
   }
+
+  span {
+    height: 44px;
+    vertical-align: bottom;
+    display: table-cell;
+    font-weight: 600;
+  }
+
+  @media (max-width: 800px) {
+    :nth-child(1) {
+      margin-right: 0;
+      margin-bottom: 24px;
+    }
+  }
 `;
 
 type Props = {
-  id: string;
   data: Question[];
 };
 
-const Modal = ({ id, data }: Props) => {
+const Modal = ({ data }: Props) => {
   const [list, setList] = useState<Question[]>([]);
 
   useEffect(() => {
@@ -69,12 +86,12 @@ const Modal = ({ id, data }: Props) => {
 
       setList(d);
     } else {
-      const result = [];
+      const result = [] as Question[];
       for (let index = 0; index < data.length; index++) {
-        if (data[index].id === id) {
+        if (!result.find((item) => item.id === data[index].id)) {
           result.push(data[index]);
 
-          if (result.length === 3) {
+          if (result.length === 2) {
             break;
           }
         }
@@ -91,6 +108,7 @@ const Modal = ({ id, data }: Props) => {
         <List>
           {list.map((item) => (
             <Item key={item.word}>
+              <span>{names[item.id.trim()]}</span>
               <h3>{item.word}</h3>
               <p>{item.description}</p>
             </Item>
@@ -102,3 +120,11 @@ const Modal = ({ id, data }: Props) => {
 };
 
 export default Modal;
+
+const names: Record<string, string> = {
+  kliniczna: "Kliniczna człowieka dorosłego",
+  sądowa: "Sądowa",
+  rozwoju: "Rozwoju człowieka i rodziny w cyklu życia",
+  zdrowia: "Zdrowia i jakości życia",
+  pracy: "Pracy i organizacji",
+};

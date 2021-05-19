@@ -12,8 +12,8 @@ type Props = {
 const IndexPage = ({ data }: Props) => {
   return (
     <Layout title="UŚ Quiz">
-      <Heading />
-      <Cards data={data} />
+      <Heading data={data} />
+      <Cards />
     </Layout>
   );
 };

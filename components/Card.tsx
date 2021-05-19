@@ -31,29 +31,7 @@ const Head = styled.h3`
   margin: 0;
 `;
 
-const Button = styled.button`
-  display: block;
-  padding: 8px 24px;
-  font-size: 20px;
-  border-radius: 24px;
-  color: #ffffff;
-  background-color: #ec4f43;
-  text-align: center;
-  transition: all 0.2s;
-  border: none;
-  cursor: pointer;
-  margin-top: 24px;
-
-  :hover {
-    background-color: #b3111b;
-  }
-
-  :focus {
-    outline: none;
-  }
-`;
-
-export const Card = ({ title, Image, showModal }: CardProps) => {
+export const Card = ({ title, Image }: CardProps) => {
   return (
     <Wrapper>
       <Image />
@@ -61,7 +39,6 @@ export const Card = ({ title, Image, showModal }: CardProps) => {
         <Subhead>Psychologia</Subhead>
         <Head>{title}</Head>
       </span>
-      <Button onClick={showModal}>Losuj</Button>
     </Wrapper>
   );
 };
@@ -69,5 +46,4 @@ export const Card = ({ title, Image, showModal }: CardProps) => {
 export interface CardProps {
   title: string;
   Image: string;
-  showModal(): void;
 }
