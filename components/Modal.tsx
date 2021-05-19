@@ -20,6 +20,8 @@ const Wrapper = styled.div`
   border: 3px solid white;
   padding: 48px;
   border-radius: 16px;
+  max-width: 1300px;
+  width: 100%;
 
   h2 {
     font-family: "Amatic SC", cursive;
@@ -32,7 +34,7 @@ const Wrapper = styled.div`
 
 const List = styled.div`
   display: flex;
-  flex-wrap: wrap;
+  justify-content: center;
 
   @media (max-width: 800px) {
     flex-direction: column;
@@ -40,8 +42,6 @@ const List = styled.div`
 `;
 
 const Item = styled.div`
-  flex: 1;
-
   :nth-child(1) {
     margin-right: 128px;
   }
@@ -108,7 +108,7 @@ const Modal = ({ data }: Props) => {
         <List>
           {list.map((item) => (
             <Item key={item.word}>
-              <span>{names[item.id.trim()]}</span>
+              <span>Psychologia {names[item.id.trim()]}</span>
               <h3>{item.word}</h3>
               <p>{item.description}</p>
             </Item>
@@ -122,9 +122,9 @@ const Modal = ({ data }: Props) => {
 export default Modal;
 
 const names: Record<string, string> = {
-  kliniczna: "Kliniczna człowieka dorosłego",
-  sądowa: "Sądowa",
-  rozwoju: "Rozwoju człowieka i rodziny w cyklu życia",
-  zdrowia: "Zdrowia i jakości życia",
-  pracy: "Pracy i organizacji",
+  kliniczna: "kliniczna człowieka dorosłego",
+  sądowa: "sądowa",
+  rozwoju: "rozwoju człowieka i rodziny w cyklu życia",
+  zdrowia: "zdrowia i jakości życia",
+  pracy: "pracy i organizacji",
 };
