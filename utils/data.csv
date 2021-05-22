@@ -1,441 +1,123 @@
-kliniczna,Psychologia kliniczna,"Dziedzina psychologi zajmująca się określeniem warunków zachowania zdrowia psychicznego, poszukiwaniem przyczyn powodujących zaburzenia, diagnozowaniem oraz prowadzenie terapii.
+kliniczna ,Fobia,"Nadmierny lęk pojawiający się podczas bezpośredniego kontaktu z pewną konkretną sytuacją
+ czy obiektem. Wyróżniamy m.in.: hemofobię (lęk przed widokiem krwi), ofidiofobię 
+(lęk przed wężami), brontofobię (lęk przed burzą), venustrafobia (lęk przed pięknymi kobieta), 
+koilrofobia (lęk przed klaunami)."
+kliniczna ,Fuga,"Sposób wycofania się człowieka lub ucieczki od problemów prawdziwego życia. Osoba 
+oddala się od swojego środowiska, często przyjmując częściowo lub całkowicie nową 
+tożsamość, nie pamiętając swojego „poprzedniego życia”. Po kilku dniach, tygodniach,
+ a czasem nawet latach, ludzie nagle mogą „obudzić się” w obcym otoczeniu, nie 
+wiedząc jak się tam znaleźli. Ponadto, nic nie pamiętają z okresu fugi.
+Film Agnieszki Smoczyńskiej pt. „Fuga” ilustruje opisywane zjawisko."
+kliniczna ,Ortoreksja,"Obsesyjna koncentracja na spożywaniu wyłącznie zdrowego jedzenia, która prowadzi 
+do znacznych ograniczeń żywieniowych. Objawia się m.in. długotrwałym planowaniem 
+i przyrządzaniem posiłków, przestrzeganiem restrykcyjnej diety, nadmierną utratą masy
+ciała i lękiem przed przybraniem na wadze. Osoby mogą skarżyć się na powracające, 
+natrętne myśli na temat bycia zdrowym.
 "
-kliniczna,Uogólnione zaburzenia lękowe,"Doświadczanie nasilonego lęku i niepokoju przez większość dnia wraz z następującymi objawami: poczuciem bezradności lub osaczenia, zaburzeniem koncetracji, drażliwością, napięciem mięśni."
-kliniczna,Fobia,"Nadmierny lęk pojawiający się podczas bezpośredniego kontaktu
-z pewną konkretną sytuacją czy obiektem. "
-kliniczna,Fobia społeczna,"Obejmuje lęk i jego objawy m.in. rumienieniem się, drżeniem rąk, poceniem się, drżeniem głosu lub wręcz niemożnością prawidłowego wysławiania się, które wyzwalane są obecnośią innych osób (szczególnie obcych).
+kliniczna ,Schizofrenia,"Zaburzenie psychiczne związane z błędnym postrzeganiem rzeczywistości. Schizofrenia 
+pochodzi od greckich słów schizein, - rozszczepić i phren – umysł. Dotyczy to 
+rozdzielenia pomiędzy tym, co chora osoba myśli, robi i czuje.
+Film Rona Howarda pt. „Piękny umysł” i Martina Charlesa pt. „Wyspa tajemnic” 
+ilustrują opisywane zjawisko."
+kliniczna ,Anoreksja,"Zaburzenie odżywiania się, które charakteryzuje się ograniczeniem ilości spożywanych
+posiłków, prowadzące do znacząco obniżonej masy ciała (odpowiednio do płci, wieku,
+zdrowia fizycznego). Większość osób dotkniętych anoreksją ma ogromną wiedzę na 
+temat wartości odżywczej produktów żywnościowych, przez co nadmiernie zwracają 
+uwagę na ich kaloryczność . Wynika to z nasilonej obawy przed przyrostem masy ciała 
+lub otyłością oraz samoocenianiem siebie jako osoby otyłej. Osoby anorektyczne 
+często są bardzo aktywne i mogą nadmiernie ćwiczyć. Ogromną większość osób 
+cierpiących na anoreksję to kobiety.
+Film Marti Noxon pt. „Aż do kości” ilustruje opisywane zaburzenie."
+kliniczna ,Zespół stresu pourazowego (PTSD),"Zaburzenie lękowe występujące u osób narażonych na zdarzenia traumatyczne m.in.: 
+działania wojenne, gwałt, napad, śmierć bliskiej osoby, wypadki komunikacyjne. 
+Objawia się: unikaniem działań i sytuacji, które mogłyby przypomnieć przebyty uraz, 
+przeżywaniem na nowo urazowej sytuacji w natrętnych wspomnieniach i koszmarach 
+sennych oraz nadmierną czujnością.
+Film Harolda Cronka pt. „Niezłomny – droga do odkupienia” ilustruje opisywane 
+zjawisko."
+kliniczna ,Superwizja,"Proces, który stanowi wsparcie i przyczynia się do rozwoju kompetencji zawodowych 
+psychoterapeutów, co przekłada się na lepsze funkcjonowanie pacjentów i sprzyja
+procesowi zdrowienia. Superwizja przeznaczona jest zarówno dla osób indywidualnie
+zajmujących się udzielaniem pomocy psychologicznej, jak i całych zespołów psychoterapeutycznych."
+kliniczna ,Parafilia,"Rodzaj zaburzenia na tle seksualnym, w którym wystąpienie podniecenia seksualnego 
+i pełnej satysfakcji seksualnej uzależnione jest od pojawienia się specyficznych 
+obiektów (w tym osób), rytuałów czy sytuacji. Odchylenia na tle seksualnym prowadzą 
+do odczuwania niezadowolenia ze zwyczajnego przebiegu stosunku seksualnego oraz 
+zachowań z nim związanych. Przykładem osoby z tym zaburzeniem jest znany seryjny 
+morderca Ted Bundy, który pomimo swojej choroby zyskał wiele fanek będąc już w 
+więzieniu."
+kliniczna ,Syndrom Borderline (BPD),"Zaburzenie psychiczne zwane także osobowością z pogranicza. Życie osoby cierpiącej 
+na borderline jest zazwyczaj chaotyczne, nieuporządkowane, pełne ryzykownych 
+zachowań, niestabilnych i przelotnych związków, znajomości, burzliwych zmian 
+nastrojów i emocji. Szacuje się, iż osobowość borderline dotyczy ok. 1-2 proc. 
+społeczeństwa.
+Film Woody’ego Allena “Vicky Cristina Barcelona” ilustruje opisywany syndrom 
+(bohaterka Maria Elena cierpi na zaburzenie borderline).
 "
-kliniczna,Agorafobia,"Lęk przed otwartą przestrzenią oraz sytuacjami związanymi z byciem w zatłoczonych miejscach, podróżowaniem środkami komunikacji miejskiej, przebywaniem w zamkniętym obiekcie ( np. kino czy kościół)."
-kliniczna,Hemofobia,Lęk przed widokiem krwi.
-kliniczna,"Ofidiofobia
-",Lęk przed wężami.
-kliniczna,Brontofobia,Lęk przed burzą.
-kliniczna,Erytrofobia,"Ciągła obawa przed znalezieniem się  w sytuacji, która powoduje silny lęk i czerwienienie się, zwykle twarzy i szyi. U osób z tym zaburzeniem występuje unikanie kontaktu wzrokowego z innymi, zwłaszcza podczas objawu zaczerwienienia."
-kliniczna,Epizodyczny lęk napadowy,"Częste ataki silnego lęku z licznymi objawami somatycznymi — dusznością, kołataniem i bólem serca oraz uczuciem, że jest się w sytuacji zagrożenia.
-Napad lęku zazwyczaj trwa nie dłużej niż 20-30 minut.  "
-kliniczna,Panika,"Charakteryzuje się niespodziewanym i nagłym wystąpieniem wielorakich objawów takich jak: trudności w oddychaniu, ból w klatce piersiowej, uczucie dławienia i oszołomienia, pocenie się, drżenie i dygotanie. 
-Ataki zdarzają się raz w tygodniu lub częściej. Wywołane są określoną sytuacją lub niezależnie od sytuacji."
-kliniczna,Natręctwa,"Niekontrolowane doświadczanie nawracających, przykrych i niechcianych myśli lub przymus jednostki do powtarzania określonych czynności. "
-kliniczna,Kompulsje ,"Przymus wykonywania czynności, których celem jest obniżenie lęku i dyskomfortu spowodowanego obsesyjnymi myślami lub zapobiegnięcie jakiemuś nieszczęściu. Najczęściej dotyczą: mycia, sprawdzania, porządkowania, sprzątania."
-kliniczna,Obsesje,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae rutrum metus. Nullam vel blandit magna, eu bibendum velit. Vivamus quis luctus nibh, elementum porta eros. Aenean sollicitudin convallis consectetur. Duis semper sapien in mi bibendum, eu luctus turpis ornare. Vivamus massa nunc."
-kliniczna,Lorem Ipsum,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae rutrum metus. Nullam vel blandit magna, eu bibendum velit. Vivamus quis luctus nibh, elementum porta eros. Aenean sollicitudin convallis consectetur. Duis semper sapien in mi bibendum, eu luctus turpis ornare. Vivamus massa nunc."
-kliniczna,Stres pourazowy,"Uporczywie powracające wspomnienia minionych zdarzeń, silny niepokój, bezsenność, a nawet myśli i próby samobójcze. Stan gotowości do walki z zagrożeniem jest bardzo wyczerpujący."
-kliniczna,Stres biologiczny (fizjologiczny),Zespół zmian fizjologicznych organizmu pojawiających się wskutek działania bodźców szkodliwych.
-kliniczna,Stres psychologiczny,Zmiany występujące w psychicznych mechanizmach regulacyjnych pod wpływem sytuacji trudnych.
-kliniczna,Psychiatria,"Jedna z podstawowych specjalizacji medycznych, zajmująca się badaniem, zapobieganiem i leczeniem zaburzeń i chorób psychicznych. Różni się od psychologii faktem, iż jest ona nauką medyczną, psychologia zaś według podziału klasycznego jest subdyscypliną filozoficzną, która obecnie wyrosła na samodzielną naukę społeczną."
-kliniczna,Psychometria,"Dział psychologii, który zajmuje się teorią i praktyką stosowania testów psychologicznych."
-kliniczna,Diagnoza epigenetyczna,"Forma diagnozy, która ma za zadanie określić jakie czynniki biologiczne, społeczne i psychiczne mają wpływ na kształtowanie się u osoby zdrowia bądź zaburzenia psychicznego i jaki był on w poszczególnych etapach cyklu życia jednostki. "
-kliniczna,Schizofrenia,"Zaburzenie psychiczne związane z błędnym postrzeganiem rzeczywistości, często prowadzącym do psychozy. Przyjmuje się, że schizofrenia należy do chorób cywilizacyjnych."
-kliniczna,Choroby somatyczne,Specyficzne zaburzenia działania organizmu ludzkiego mające bezpośredni związek z problemami psychicznymi.
-kliniczna,Depresja,"W języku codziennym odnosi się do złego samopoczucia, obniżonego nastroju, przygnębienia niezależnie od przyczyn tego stanu. W psychiatrii terminem tym określa się szczególny rodzaj zaburzeń nastroju i emocji, mianowicie takie, które można uznać za zjawisko chorobowe, a więc wymagajace pomocy lekarskiej."
-kliniczna,Dystymia,"Utrwalone zaburzenie nastroju wykazujące zmienne nasilenie, ale zwykle nie osiąga nasilenia uprawniającego do rozpoznania epizodu depresyjnego. Objawy utrzymują się przez wiele lat, niekiedy przez większą cześć życia, są przyczyna złego samopoczucia i ogólnej niesprawności."
-kliniczna,Psychoneuroimmunologia,"Stosunkowo nowa dziedzina, która odkrywa powiązania między układem odpornościowym i ośrodkowym układem nerwowym."
-kliniczna,Psychosomatyka,Dział medycyny i psychologii zajmujący się wzajemnymi związkami pomiędzy psychiką a ciałem. Opiera się na istniejącym widocznym wpływie czynników emocjonalnychi psychicznych (często nie uświadamianych) na stan zdrowia człowieka. 
-kliniczna,Depresja maskowana,"Stan, w którym w obrazie chorobowym dominują objawy somatyczne (objawy takie jak: bóle głowy, bóle mięśni i stawów, dolegliwości gastryczne, dla których nie udaje się zidentyfikować medycznej przyczyny)."
-kliniczna,Zaburzenia psychiczne,"wzorce lub zespoły zachowań, sposobów myślenia, czucia, postrzegania oraz innych czynności umysłowych i relacji z innymi ludźmi, będące źródłem cierpienia lub utrudnień w indywidualnym funkcjonowaniu dotkniętej nimi osoby"
-kliniczna,Parafilia,"rodzaj zaburzenia na tle seksualnym, w którym wystąpienie podniecenia seksualnego i pełnej satysfakcji seksualnej uzależnione jest od pojawienia się specyficznych obiektów (w tym osób), rytuałów czy sytuacji; długotrwałe, nawracające, silne, seksualnie podniecające fantazje, seksualne pobudki lub zachowania, które obejmują niezwykłe obiekty, działania lub sytuacje "
-kliniczna,Psychoza,"zaburzenie psychiczne definiowane w psychiatrii jako stan umysłu, w którym na skutek zakłóceń w postrzeganiu (percepcji) rzeczywistości, a czasem także zaburzeń
-świadomości, osoba ma trudność z odróżnieniem tego, co jest rzeczywiste, a co nie"
-kliniczna,Urojenia,"zaburzenia treści myślenia polegające na fałszywych przekonaniach, błędnych sądach, odpornych na wszelką argumentację i podtrzymywane mimo obecności dowodów wskazujących na ich nieprawdziwość"
-kliniczna,Halucynacje (omamy),"to nieprawidłowe doznania zmysłowe spowodowane zaburzeniem funkcji poznawczych organizmu - obrazy, dźwięki, smaki, zapachy, doznania czuciowe lub idee będące iluzją odbieraną przez organizm jako realne bodźce zmysłowe, przedmioty lub zjawiska"
-kliniczna,Zaburzenia pozorowane,"grupa zaburzeń psychicznych cechujących się świadomym, lecz wywoływanym impulsywnie, wytwarzaniem lub udawaniem objawów chorobowych, w celu przyjęcia roli chorego"
-kliniczna,Psychoterapia,"stosowanie metod psychologicznych, zwłaszcza opartych na regularnym kontakcie międzyludzkim, w celu pomocy osobom zmagającym się z różnorodnymi problemami. Psychoterapia służy poprawie dobrostanu i zdrowia
-psychicznego, rozwojowi relacji i umiejętności
-społecznych, może dotyczyć zmiany lub radzenia sobie z dokuczliwymi zachowaniami, przekonaniami, obsesjami, myślami lub emocjami."
-kliniczna,Terapia poznawczo-behawioralna,"jest jasno sprecyzowaną, zorientowaną na cel formą psychoterapii. Zajmuje się głównie teraźniejszością, a nie przeszłością, wychodząc z założenia, że każdą bolesną emocję i nieodpowiednie zachowanie da się zmienić, nawet jeżeli są one mocno utrwalone i trwają wiele lat."
-kliniczna,Psychoanaliza,"metoda poznania i leczenia człowieka, umożliwia osobom, które się jej poddają poznanie niektórych nieświadomych mechanizmów i konfliktów, i uzyskanie większego wpływu na własne życie. Została zapoczątkowana przez Zygmunta Freuda."
-kliniczna,Test psychometryczny," pomiar próbki zachowania - pozwala na podstawie zachowania się osoby badanej w sytuacji testowej wnioskować o jej zachowaniu w sytuacjach pozatestowych, życiowych"
-kliniczna,Patologia społeczna (dewicja społeczna),"odchylenie od reguł działania społecznego, postępowanie niezgodne z normami, a także z wartościami przyjętymi w społeczeństwie lub w grupie społecznej. Zachowania dewiacyjne nie są jednoznacznie interpretowane i ich określenie jest zależne od przyjętych reguł w danym społeczeństwie."
-kliniczna,Psychopatologia,"jej zadaniem jest opisywanie, wyjaśnianie i porządkowanie nieprawidłowych, chorobowych zjawisk psychicznych, którym przypisuje się znaczenie kliniczne, czyli objawów psychopatologicznych lub zespołów objawowych, a których rozpoznanie, analiza i ocena są przydatne w postępowaniu terapeutycznym. W szerszym rozumieniu, za przedmiot psychopatologii przyjmuje się opisywanie zaburzeń psychicznych."
-kliniczna,Desensytyzacja (odwrażliwianie),"proces terapeutyczny polegający na redukowaniu intensywności reakcji lękowej (np. na traumatyczne przeżycia, obiekt wywołujący fobię) poprzez konstruowanie sytuacji, w których osoba (w rzeczywistości lub w wyobraźni) może skonfrontować się ze złagodzoną wersją swoich doświadczeń (czy obiektem lęku). Może oznaczać także pozbawienie wrażliwości wynikające z przyzwyczajenia się do widoku drastycznych scen."
-kliniczna,Wolne skojarzenia (swobodne skojarzenia),"polegają na wypowiadaniu wszystkich treści, które przychodzą na myśl w związku z zadanym tematem (tematem jest zwykle czynność pomyłkowa, przejęzyczenie lub element marzenia sennego). Wypowiadanie myśli, które przychodzą pacjentowi do głowy wiąże się z pewnym świadomym wysiłkiem. Wysiłek ten jest konieczny aby pokonać stłumienie, czyli przywrócić do pola świadomości te myśli, od których świadomość uciekała."
-kliniczna,Ekspozycja,"technika psychoterapii behawioralnej stosowana w leczeniu zaburzeń lękowych. Zakłada eksponowanie się pacjenta na sytuacje lub przedmioty, które choć bezpieczne, wzbudzają lęk. Dzięki tym planowanym ekspozycjom, lęk się w końcu zmniejsza i pacjent pokonuje swoje problemy. Z czasem lęk ma się zmniejszać."
-kliniczna,Zaburzenia osobowości,"grupa zróżnicowanych zaburzeń,
-które można określić jako długotrwałe, nie dające się zmienić istotne cechy
-osobowości, zaburzające współżycie z innymi, a zwłaszcza poziom
-funkcjonowania emocjonalnego, ale nie ograniczające kontaktu
-z rzeczywistością"
-kliniczna,Paranoiczne zaburzenia osobowości,"typ paranoiczny charakteryzuje się przede wszystkim brakiem zaufania i podejrzliwością
-oraz nadwrażliwością. Ponieważ osoby te traktują wszystkich jako
-chcących im szkodzić, zatem unikają bliższych związków z ludźmi. We
-własnej ocenie poziom ich zaufania może jednak być znacznie odmienny."
-kliniczna,Schizoidalne zaburzenia osobowości,"osoby schizoidalne odznaczają się brakiem ścisłych związków z innymi. Unikają oni kontaktów społecznych
-nie z powodu braku zaufania do ludzi, ale ponieważ zdecydowanie wolą być sami w domu. 
-Osoby schizoidalne wykazują powściągliwość w kontaktach oraz dysponują pewną 
-ograniczoną paletą reakcji emocjonalnych. Inni uważają ich bardziej za obserwatorów otoczenia niż 
-jego uczestników."
-kliniczna,Schizotypowe zaburzenia osobowości,"zaburzenie przejawia się deficytem interpersonalnym polegającym na silnej niechęci do nawiązywania 
-bliskich kontaktów, zniekształceniu czynności poznawczych i percepcji oraz zachowaniach
-ekscentrycznych. Osoby te skłaniają się do izolacji, w obecności innych przeżywają znaczny lęk, mają 
-zwykle niewielu przyjaciół.
+kliniczna ,Anhedonia,"Jeden z częściej występujących objawów depresji. Jest to niezdolność do odczuwania 
+przyjemności (zmysłowej, cielesnej, emocjonalnej, intelektualnej czy duchowej) oraz 
+radości. Cechuje się utratą zainteresowania podstawowymi przejawami życia, a także 
+zobojętnieniem i brakiem motywacji. Może być efektem niepożądanego działania 
+leków antydepresyjnych.
+W 2008 r. piosenkarka Katarzyna Kowalska wyznała, że cierpi na anhedonię.
 "
-kliniczna,Osobowość antyspołeczna,"typ zaburzeń osobowości o charakterze antyspołecznym określany jest często jako psychopatia lub socjopatia.
-Najkrócej określa się tym pojęciem osoby, które zupełnie lekceważą, czy wręcz pogardzają prawami innych ludzi. 
-To właśnie ten typ zaburzeń jest ściśle powiązany z wszelkiego rodzaju zachowaniami przestępczymi."
-kliniczna,Chwiejne zaburzenia osobowości,"Osoby z tym zaburzeniem charakteryzują się brakiem stabilności w kontaktach interpersonalnych, niestabilnym 
-obrazem samego siebie, brakiem stabilności afektu, a także znaczącym poziomem impulsywności. Zaburzenie to 
-obejmuje całe spektrum typów osobowości, które pewna część teoretyków umieszcza pomiędzy zaburzeniami
-afektywnymi i schizofrenią."
-kliniczna,"Histeroidalne zaburzenia osobowości
-","osoby histeroidalne odznaczają się przesadną emocjonalnością i domaganiem się ponad miarę zwracania na siebie
-uwagi. Typowe określenie stosowane do tych osób to „przeładowanie emocjonalne”. Do niedawna stosowano do tych 
-zaburzeń określenie zaburzenia histeryczne."
-kliniczna,Narcystyczne zaburzenia osobowości,"osoby z zaburzeniami narcystycznymi prezentują siebie jako wzór wspaniałomyślności, przejawiają w nadmiarze
-potrzebę podziwiania ich osoby oraz odznaczają się brakiem empatii. Są ekstremalnie zachwyceni własną osobą, 
-przeceniają własne zasługi i zdolności, oczekują równocześnie od innych, aby podziwiali ich niezwykłość, a jeśli tak 
-się nie dzieje, to stają się aroganccy i zarozumiali."
-kliniczna,Niepewny siebie typ zaburzeń osobowości,"osoby tym typie osobowości odznaczają się chronicznym zahamowaniem w sytuacjach społecznych, poczuciem
-niższości i silną wrażliwością na oceny negatywne oraz odrzucenie przez otoczenie społeczne"
-kliniczna,Zależne zaburzenia osobowości,"osoby zależne zdają się tak całkowicie na innych, iż nie mogą sami podejmować nawet najmniejszych decyzji, 
-zdają się całkowicie na innych w zwykłych codziennych sprawach i decyzjach, aby utwierdzić się w osobistej 
-niewystarczalności i bezsilności. Boją się zadbania o samych siebie, a nawet boją się przebywać sami. 
-W skrajnych przypadkach nie mogą znieść najmniejszej fizycznej nieobecności współmałżonka czy partnera"
-kliniczna,Syndrom Borderline ,"to zaburzenie polegające między innymi na niestabilności nastroju, zaburzeniach tożsamości oraz poczuciu 
-niespełnienia i pustki. Dysfunkcja ta charakteryzuje się przewagą uczuć negatywnych, lękiem przed odrzuceniem 
-i porzuceniem oraz rozczarowaniem, nieumiejętnością budowania stabilnych relacji z innymi ludźmi, szczególnie 
-relacji intymnych oraz niespójnym wizerunkiem własnego ""ja""."
-kliniczna,Anhedonia,"termin oznaczający stan, w którym pacjent skarży się na obniżoną zdolność lub nawet niezdolność do odczuwania: przyjemności (zarówno zmysłowej, cielesnej jak i emocjonalnej, intelektualnej czy duchowej) i radości."
-kliniczna,Choroba afektywna dwubiegunowa,"zaburzenie, które rozpoczyna się w większości przypadków około 35-40 roku życia i związana jest z występowaniem dwóch rodzajów zachowań: depresyjnych (smutek, przygnębienie, brak chęci do życia, nawiązywania kontaktu z innymi osobami) oraz manii (nadmierna pobudliwość, euforia, ryzykowne a nawet bardzo niebezpieczne zachowania)."
-kliniczna,Superwizja,"proces uczenia się, w którym superwizant (psychoterapeuta zgłaszający się na superwizję) pracuje z bardziej doświadczonym specjalistą nad wzbogacaniem własnych umiejętności i doświadczenia zawodowego, które docelowo mają służyć klientowi zgłaszającemu się po pomoc."
-kliniczna,zależność psychiczna,"
-silna potrzeba doznawania skutków działania określonej substancji lub nawyku, co wiąże się zwykle z dążeniem 
-dozwiększania i zdobywania kolejnej dawki mimo rosnących kosztów materialnych i moralnych"
-kliniczna,zależność fizyczną,"następstwo „wbudowania” substancji uzależniającej w cykl przemian ustrojowych wskutek czego
-po jej odstawieniu – występują dotkliwe objawy abstynencyjne zmuszające do dalszego jej 
-przyjmowania"
-kliniczna,Uzależnienie,sposób radzenia sobie z trudnościami i rodzaj mechanizmu obronnego
-kliniczna,Wyposażenie genetyczne człowieka,"determinuje jego indywidualne predyspozycje, na przykład do sięgania po używki. W przypadku 
-alkoholu naukowcy udowodnili hipotezę na temat genetycznych predyspozycji dzieci alkoholików 
-do podatności na to uzależnienie."
-kliniczna,Czynniki psychologiczne,"to cechy podnoszące ryzyko uzależnienia, takie jak: niska samoocena, introwertyzm, nieśmiałość, niestabilność
- i niedojrzałość emocjonalna, mała odporność na stres, wysoka potrzeba natychmiastowej gratyfikacji, 
-przesadna idealizacja bądź lekceważenie innych, poszukiwanie wrażeń."
-kliniczna,Alkoholizm,"choroba alkoholowa (zespół zależności alkoholowej) czyli uzależnienie od alkoholu etylowego, a w szerokim 
-znaczeniu to następstwa nadmiernego używania alkoholu"
-kliniczna,Pracoholizm,"jest zaburzeniem, które powoduje, że dana osoba wręcz obsesyjnie podchodzi do swojej pracy, co ma znaczny 
-wpływ na to jak wygląda jej życie prywatne."
-kliniczna,Narkomania,"to powszechnie znane uzależnienie od narkotyków, czyli substancji, które mają wpływ na czynności 
-mózgu. Narkomania charakteryzuje się tak zwanym głodem narkotycznym, czyli fizycznym 
-cierpieniem spowodowanym odstawieniem substancji, który prowadzi do zdobycia narkotyku za 
-wszelką cenę"
-kliniczna,Uzależnienie od hazardu,"należy do uzależnień behawioralnych i jest definiowane, jako powtarzające się działanie, które nie 
-może być kontrolowane i jest ze szkodą dla osoby uzależnionej, jej wartości, zobowiązań 
-społecznych, zawodowych, ekonomicznych i rodzinnych,"
-kliniczna,"Uzależnienie behawioralne 
-(czynnościowe)","zespół objawów związanych z utrwalonym, wielokrotnym powtarzaniem określonej czynności 
-(lub grupy czynności) w celu uzyskania takich stanów emocjonalnych jak przyjemność, euforia, 
-ulga, uczucie zaspokojenia."
-kliniczna,Zakupoholizm,to uzależnienie od czynności robienia zakupów
-kliniczna,Ortoreksja,"patologiczna koncentracja na spożywaniu zdrowego jedzenia, która prowadzi do znacznych ograniczeń 
-żywieniowych."
-kliniczna,Tanoreksja,"uzależnienie polegające na ciągłej chęci opalania się, najczęściej występujące u młodych kobiet"
-kliniczna,Bigoreksja,"to zaburzenie postrzegania własnego ciała, powodujące dysmorfię mięśniową, czyli 
-nieustanne poczucie niezadowolenia z osiągniętych efektów i potrzebę zwiększania 
-masy mięśniowej, bez satysfakcji i wyczucia, w którym momencie warto się zatrzymać."
-kliniczna,Amnezja,to częściowa lub całkowita niezdolność do przypomnienia sobie bądź rozpoznawania minionych doświadczeń.
-kliniczna,Fuga,"(po francusku „fuge” – ucieczka) sposób wycofania się człowieka lub ucieczki od problemów prawdziwego życia. Osoba nie tylko wchodzi w stan amnezji, ale oddala się od swego środowiska, często przyjmując częściowo lub całkowicie nową tożsamość."
-kliniczna,Poznanie,"zdolność człowieka i innych gatunków do odbioru informacji z otoczenia oraz przetwarzania ich w celu skutecznej kontroli własnego działania, a także lepszego przystosowania się do warunków środowiska."
-kliniczna,Miary behawioralne,są to sposoby badania zewnętrznych działań oraz obserwowalnych i dających się zaobserwować reakcji.
-kliniczna,Miary samoopisowe,"są to odpowiedzi słowne, w formie pisemnej lub ustnej, na pytania stawiane przez badacza."
-kliniczna,Nieświadomość,"procesy psychiczne, które nie dopuszczają do świadomego zdania sobie sprawy z wszelkich informacji, które wywołałyby niezwykle silny lęk, gdyby zostały rozpoznane."
-kliniczna,Środki psychotropowe,"to substancje chemiczne, które wpływają na procesy psychiczne i zachowanie, zmieniając na pewien czas świadomość."
-kliniczna,Medytacja,"forma zmiany świadomości, mająca na celu zwiększenie samowiedzy i polepszenie samopoczucia przez zredukowanie stresu."
-kliniczna,Wrażenie,"proces, w którym pobudzony receptor zmysłowy daje początek impulsom nerowym, a ich wynikiem jest doznanie czucia, czyli świadomość zjawisk na zewnątrz lub wewnątrz organizmu."
-kliniczna,Transdukcja,proces przemiany jednego rodzaju energii fizycznej np. światła na inną np. impulsy nerwowe.
-kliniczna,Percepcja/spostrzeganie,"po odbiorze wrażeń następuje etap, w którym kształtuje się wewnętrza interpretacja obiektu i powstają spostrzeżenia bodźców odbieranych zewnątrz."
-kliniczna,Uczenie się,"proces, który prowadzi do względnie trwałej zmiany zachowania i który opiera się na doświadczeniu."
-kliniczna,Pamięć,"aktywny system umysłowy, który odbiera, koduje, modyfikuje i wyszukuje informację."
-kliniczna,Pamiętanie,"określenie zarówno przechowywania informacji jak i ""wydobywania"" - przypominania."
-kliniczna,Pamięć utajona,"wiedza wynikajaca z doświadczeń, z których pozytywnego wpływu na wykonywane przez siebie czynności nie zdajemy sobie sprawy."
-rozwoju ,Atawizm ,"pozostałości po zwierzęcych przodkach człowieka, np.raczkowanie – na 4 kończynach jak zwierzęta, wspinanie się."
-rozwoju ,Interakcja,wzajemne skomplikowanie czynników biologicznych (wewnętrznych)i środowiskowych (zewnętrznych).
-rozwoju ,Imprinting,"inaczej wdrukowanie, podążanie za, wtłoczenie, wytwarzanie pierwowzoru, trwałe piętno cechy instynktownej - polega na uczeniu się poprzez naśladownictwo, które pojawia się bardzo wcześnie, trwa bardzo krótko, a daje trwałe efekty, determinując w dużym stopniu dalsze społeczne zachowanie się."
-rozwoju ,Deprywacje,"ubóstwo bodźców sensorycznych, podniet stymulujących aktywność dziecka, brak więzi uczuciowej z matką - hamują rozwój dziecka powodując nieodwracalne szkody."
-rozwoju ,Asymilacja,włączanie w struktury organizmu nowych informacji napływających ze środowiska rozwojowego.
-rozwoju ,Akomodacja,dostosowanie struktury schematów poznawczych do nowych danych lub sytuacji środowiskowych.
-rozwoju ,Styl autorytarny,"restrykcyjny; dorośli wyznaczają zasady oczekując bezwzględnego posłuszeństwa, rzadkie tłumaczenie co jest ważne, częste kary, przymus i nieokazywanie miłości. Rodzice są niewrażliwi na wizje dziecka oczekują akceptacji ich wymagań jako prawa."
-rozwoju ,Styl autorytatywny,"kontrolujący, elastyczny, rodzice wyznaczają rozsądne zasady, tłumacza są responsywni i akceptujący punkty widzenia dzieci, zachęcają do podejmowania wspólnych rodzinnych decyzji. Kontrolują racjonalnie, demokratycznie szanując perspektywę dziecka."
-rozwoju ,Styl permisywny,"akceptujący, swobodnie wychowujący. Niewiele zasad, dozwolone swobodnie okazywać uczucia i impulsy, nie kontrolują zachowań dzieci."
-rozwoju ,Styl zaniedbujący,"(nie dbam o ciebie ani o to co robisz) luźne, niewymagające podejście rodziców odrzucających dzieci lub tak zapracowanych, zestresowanych, że nie mają czasu i energii na wychowywanie dzieci. Rzadko stosują zasady i wymagania, są niezaangażowani i niewrażliwi na potrzeby dzieci."
-rozwoju ,Przywiązanie,"szczególna więź uczuciowa dającą dziecku poczucie bezpieczeństwa, która stanowi pierwotną (nie wtórną) potrzebę dziecka."
-rozwoju ,Przywiązanie bezpieczne,"dziecko traktuje opiekuna jako „bezpieczna bazę”, mało płacze, rzadko reaguje protestem na oddalenie się opiekuna, chętnie eksploruje środowisko, co jakiś czas nawiązuje kontakt wzrokowy, gdy opiekun odchodzi-płacze jest napięte, nie eksploruje otoczenia a gdy wraca - wita go z radością."
-rozwoju ,Przywiązanie unikające,"dziecko eksploruje otoczenie, dużo płacze nawet przy opiekunie, trudno je uspokoić, po wyjściu opiekuna małe napięcie a po powrocie unikanie go - występuje u ok. 20% dzieci"
-rozwoju ,Przywiązanie lękowe,"dziecko eksploruje, dużo płacze, kurczowo trzyma się opiekuna a po jego wyjściu trudno się uspokaja - występuje u ok. 13% dzieci "
-rozwoju ,Obserwacja anegdotyczna,"polega na analizie poszczególnych zdarzeń, jakie miały miejsce w życiu dziecka, mających charakter anegdotek np. urodziny. Ten typ obserwacji prowadzony jest często przez dłuższy okres czasu, dane zebrane są w specjalnym arkuszu obserwacyjnym."
-rozwoju ,Monotropia,największe przywiązanie do jednej osoby
-rozwoju ,Choroba sieroca,"występujący u dzieci zespół zaburzeń i opóźnień w rozwoju ﬁzycznym, ruchowym i psychicznym spowodowany długotrwałą rozłąką z osobami bliskim (rodzicami, matka). Choroba jest spowodowana brakiem miłości. Występuje najczęściej u dzieci, które są wychowywane w domach dziecka, ale również w rodzinach gdzie występują nieprawidłowe relacje."
-rozwoju ,Teoria przyjemności funkcjonalnej (Buhler) ,"głównym powodem zabawy jest możliwość uzyskania przyjemności funkcjonalnej, która polega na samej aktywności czyli bawieniu się, a nie jej wyniku. ""Nie chodzi więc o to, żeby złapać króliczka, ale żeby go gonić"". Przyjemne uczucia tkwią w samym działaniu."
-rozwoju ,Fluktuacja emocji,"rozwój emocjonalny dziecka nie jest procesem progresywnym, lecz podlega fluktuacjom tzn. że stany równowagi emocjonalnej przeplatają się ze stanami braku równowagi. Przyczyną tego jest swoisty rytm neurobiologiczny rozwoju ontogenetycznego. To droga od stanu przystosowania emocjonalnego do kryzysu w fazie następnej."
-rozwoju ,Sekularyzacja,polega na przyspieszonym tempie rozwoju fizycznego i psychicznego danego pokolenia w porównaniu z pokoleniem wcześniejszym (np. wcześniejszy rozwój płciowy)  
-rozwoju ,Okres krytyczny (sensytywny),"to okres szczególnej wrażliwości w trakcie rozwoju, gdy organizm jest najlepiej przygotowany do nabycia określonych nawyków, zachowań czy właściwości, np. języka, jeśli pojawią się w środowisku odpowiednie bodźce i doświadczenia."
-rozwoju ,"Rozwój fizyczny, poznawczy, psychospołeczny","fizyczny obejmuje wzrastanie i zmiany zachodzące w ciele i mózgu, rozwój zmysłów, motoryki oraz zdrowie i dobrostan człowieka. Rozwój poznawczy odnosi się do uczenia, uwagi, pamięci, języka, myślenia, wnioskowania i kreatywności. Rozwój psychospołeczny dotyczy emocji, osobowości i relacji społecznych"
-rozwoju ,Zegar biologiczny,"wyznacza kolejność doświadczeń płynących z organizmu, wszystkie przemiany jakim podlega nasze ciało podporządkowane są działaniu tego zegara; zewnętrzne środowiskowe wpływy mogą to opóźniać lub przyspieszać."
-rozwoju ,Zegar społeczny,"określa kolejność doświadczeń kulturowych uniwersalnych dla ludzi w danym wieku; zależnie od wieku, ku ludziom kierowane są ściśle określone i podobne oczekiwania otoczenia społecznego."
-rozwoju ,Rozwój ciągły,"pogląd, zgodnie z którym rozwój jest procesem kumulacyjnym: stopniowym doskonaleniem posiadanych umiejętności. W tym przypadku zmiana zachodzi płynnie (liniowo) np. fizyczny wzrost dziecka: z każdym rokiem przybywa mu centymetrów."
-rozwoju ,Doświadczenia Harlowa (1954), bezpośredni kontakt dotykowy jest podstawą dla kształtowania się trwałych więzi emocjonalnych.
-rozwoju ,Strategia porównań podłużnych (badania podłużne),"badania, w których te same jednostki są obserwowane i badane wiele razy, często przez dłuższy okres czasu np. wiele lat. Strategia ta oparta jest na kryterium czasowym, pozwala na uchwycenie mechanizmów zmiany oraz czynników mogących wpłynąć na zachowanie.
+kliniczna ,Alkoholizm," Patologiczna skłonność do nadmiernego spożywania wysokoprocentowych trunków.
+Wadliwy wzorzec zachowania dla społeczeństwa i najbliższych, powoduje liczne
+ problemy, komplikacje oraz krzywdy psychiczne, fizyczne oraz społeczne. 
 
-"
-rozwoju ,Baby blues,"krótki epizod depresyjny po porodzie, osłabienie nastroju matki wywołane przeżyciem porodu, ustępuje szybko przy wsparciu bliskich, występuje przy około 80% wszystkich porodów."
-rozwoju ,Strefa najbliższego rozwoju,"zakres zdarzeń, które są zbyt trudne, by dziecko mogło samodzielnie je opanować, ale które mogą być osiągnięte przy pomocy i zachęcie bardziej rozwiniętego partnera, np. Ojciec układa z córką puzzle."
-rozwoju ,Sterowane uczestnictwo,"rozwój dziecka poprzez udział wraz z dorosłym w kulturowo znaczących czynnościach, np. Zabieranie dziecka do pracy."
-rozwoju ,Efekt widowni (wyimaginowana publiczność),"wrażenie/przeświadczenie będące udziałem nastolatka, że inni poświęcają jego osobie tyle samo uwagi, ile ona poświęca sobie"
-rozwoju ,Egocentryzm młodzieńczy,"usilne zajmowanie się własnymi myślami i przeżyciami, skoncentrowanie na sobie, nawykowe obserwowanie siebie z perspektywy innych osób"
-rozwoju ,Krytycyzm młodzieńczy,"surowość osądu – wszechstronna, nastawiona na „wyłapywanie niezgodności” analiza"
-rozwoju ,Mity osobiste (nastoletnie mitologizowanie własnej osoby),"poczucie wyjątkowości własnej osoby, połączone z intensywnym fantazjowaniem na swój temat; wiara we własną niepowtarzalność; wrażenie, że własne przeżycia i doznania są „nadzwyczajne” i nie przytrafiają się innym"
-rozwoju ,Myślenie hipotetyczno-dedukcyjne,wyciąganie wniosków z czystych hipotez; przechodzenie od ogólnych sformułowań do ich zastosowania w konkretnych sytuacjach; przechodzenie od możliwości i od hipotez do rzeczywistości
-rozwoju ,Myślenie naukowo-indukcyjne,"przechodzenie w rozumieniu od szczegółu do ogółu, wyciąganie wniosków na podstawie przeprowadzonych doświadczeń i eksperymentów"
-rozwoju ,Pozorna obłuda,"doszukiwanie się problemów w prostych, oczywistych sytuacjach "
-rozwoju ,Nauka niezależna od kontekstu,"zdobywanie wiedzy dla wiedzy: nauka nie odnosząca się do obecnej sytuacji. Jest to sposób przyswajania wiedzy charakterystyczny dla kultury zachodniej.
-
-"
-rozwoju ,Synchronia interakcyjna,"ogólne harmonijne interakcje między dwoma osobami polegające na tym, że ich uczestnicy dostosowują swoje zachowanie w odpowiedzi na uczucia i zachowania partnera, fundament przywiązania."
-rozwoju ,Efekt lalki Kewpie,"założenie, że niemowlęce rysy twarzy są atrakcyjne i urocze oraz, że wywołują one przychylne reakcje u innych ludzi. Badania wykazały, że matki niemowląt, które mają wygląd lalki Kewpie, okazują więcej uczuć, częściej bawią się i spędzają więcej czasu z dzieckiem niż matki mniej atrakcyjnych dzieci, pomimo powszechnego przekonania, że rodzice będą traktować swoje dziecko tak samo, niezależnie od wyglądu."
-rozwoju ,Temperament zahamowany,"tendencja do reagowania wycofaniem na nieznane zdarzenia, osoby i sytuacje."
-rozwoju ,Teoria systemów ekologicznych (Bronfenbrenner),"model podkreślający, że rozwijająca się osoba znajduje się w kilku systemach środowiskowych, które wzajemnie na siebie oddziałują, a także wchodzą w interakcje z jednostką, wpływając na jej rozwój."
-rozwoju ,Zmiany indywidualne,"obejmują poszczególnych ludzi, które są istotne dla tempa naszego rozwoju i są na tyle silne, że pozostawiają w nas ślad.
-
-"
-rozwoju ,Funkcja symboliczna,zdolność wykorzystania symboli do reprezentowania przedmiotów i zdarzeń.
-rozwoju ,Wygląd reprezentacyjny,"świadomość, że dany przedmiot może reprezentować coś innego niż on sam."
-rozwoju ,Zdolność podwójnej reprezentacji,"Umiejętność myślenia o danym przedmiocie równocześnie na dwa sposoby - zgodnie z zasadą podwójnego kodowania, na dwóch poziomach przetwarzania - słownego i obrazowego. "
-rozwoju ,Animizm,przypisywanie cech żywych obiektom nieożywionym
-rozwoju ,Różnicowanie pozoru-rzeczywistości,umiejętność rozpoznania fałszywych i prawdziwych cech danego przedmiotu
-rozwoju ,Egocentryzm,tendencja do postrzegania świata przez pryzmat własnej osoby
-rozwoju ,Nierozumienie stałości,"dzieci nie rozróżniają, że właściwości substancji nie ulegają zmianie podczas gdy zmienia się jej kształt."
-rozwoju ,Decentracja,branie pod uwagę kilku właściwości bodźca lub sytuacji
-rozwoju ,Teoria przywiązania,"jej twórcą jest John Bowlby, w teorii tej przywiązanie zostało opisane jako system biologicznych impulsów, niezbędnych do przetrwania w pierwszych latach życia."
-rozwoju ,Libido,"według Freuda to energia, dzięki której popęd życia spełnia swoje funkcje"
-rozwoju ,Tanatos,"według Freuda to energia występująca w przeciwieństwie do libido, odpowiedzialna za destrukcję."
-rozwoju ,Akceleracja,"to szybsze tempo rozwoju dziecka w stosunku do rówieśników, może to też być tendencja do osiągania przez pokolenia późniejsze, wyższych wskaźników rozwoju niż te, które charakteryzowały pokolenia wcześniejsze."
-rozwoju ,Ageizm,postawy niechęci wobec osób starszych.
-rozwoju ,Odwracalność,zdolność do odwrócenia akcji poprzez wykonanie działania przeciwnego w myślach
-rozwoju ,Hipergeneralizacja,"wczesne błędy językowe polegające na używaniu przez dziecko etykiet, wobec rzeczy poznanych przed chwilą, a których nazw jeszcze nie zna. Np. tata na każdego mężczyznę."
-rozwoju ,Afekt,"zewnętrzny wyraz emocji poprzez mimikę, gesty i intonację"
-rozwoju ,Hiperregularyzacja,"zjawisko polegające na popełnianiu przez dziecko charakterystycznych błędów językowych, które mogą służyć za wskaźnik określający poziom opanowania reguł gramatycznych. Opiera się na nieelastycznym i zbyt gorliwym stosowaniu zasad gramatyki, np. „dać jeść koniu” (bo „dać jeść psu”) lub „dać jeść piesowi” (bo „dać jeść koniowi”)."
-rozwoju ,Id,"według Freuda, pierwotna struktura naszej świadomości, dąży do zaspokojenia przyjemności"
-rozwoju ,Mowa telegraficzna,"sposób mówienia polegający na pomijaniu czasowników, przyimków i przymiotników, bądź tych części słów, które pozbawione są akcentu, np. “kot pić mleko”."
-rozwoju ,Hipogeneralizacja,"jest to nadawanie nazw rzeczom, które mają znane już przez dziecko nazwy, np. mimo że dziecko zna słowo “kwiaty” to na wszystkie kwiaty mówi np. ""tulipan”."
-rozwoju ,Imperatyw rodzicielski ,"dzielenie pomiędzy partnerów dwóch rodzajów odpowiedzialności: od matki - dostarczenie wsparcia emocjonalnego, od ojca - wsparcia fizycznego."
-rozwoju ,Superego,"jedna z trzech struktur osobowości w modelu psychoanalitycznym według Freuda, wewnętrzna reprezentacja ideałów i zasad moralnych w społeczeństwie"
-rozwoju ,Teoria konwergencji,nakładanie się na siebie czynników środowiskowych i biologicznych działających na jednostkę.
-rozwoju ,Ego,"jedna z trzech struktur osobowości w modelu psychoanalitycznym według Freuda, podejmuje prawidłowe decyzje w oparciu o Id i Superego"
-rozwoju ,Osobowość symbiotyczna,"osobowość uzależniona od innych osób, nie potrafiąca podejmować własnych decyzji."
-rozwoju ,Konstruktywizm,koncepcja rozwoju intelektualnego jako proces aktywnego budowania wiedzy.
-rozwoju ,Stadium przedoperacyjne,"występuje pomiędzy 2 a 7 rokiem życia. W tym okresie intensywnie rozwija się jezyk i myslenie sybloliczne, dominuje egocentryzm w mowie i myśleniu oraz niezdolność śledzenia przekształceń."
-rozwoju ,Cyrkularność,"zakłada przyczynowość, która jest traktowana jako proces kołowy, bez widocznego początku i końca. Poszczególni członkowie rodziny oddziałują na siebie za pomocą tzw. sprzężeń zwrotnych, w których afekty osób wzmacniają się wzajemnie."
-rozwoju ,Prężność psychiczna,"umiejętności odradzania się po traumie, po sytuacji trudnej lub skrajnie trudnej."
-rozwoju ,Psychologia rozwoju człowieka w ciągu życia,"koncepcja rozwoju jako wielowymiarowego procesu wielokierunkowych zmian, przebiegających w całym życiu człowieka.
-
-"
-rozwoju ,Progresywność,"rozwój przebiega w wielu kierunkach, ale zmianami rozwojowymi są tylko takie, które wyrażają “przechodzenie” od stanu niższego do wyższego, od tego, co “gorsze” ku temu, co “lepsze”."
-rozwoju ,Psychologia biegu życia,"tzw. life-span developmental psychology - bada zmiany zachowań, w każdym momencie cyklu życiowego - od poczęcia do śmierci"
-rozwoju ,Zmiany ilościowe,"Zmiany w poszczególnych wymiarach zjawisk psychicznych (procesów, zachowań)"
-rozwoju ,Zmiany jakościowe,"Oznaczają przekształcenia wewnętrznej organizacji struktur czynności psychicznych i
-zachowań, a więc powstawanie i nowych jakościowo  postaci"
-,,
-rozwoju ,Okres sensytywny,okres największej wrażliwości na dane stymulacje
-rozwoju ,Tożsamość,"całokształt przypisywanych sobie przez jednostkę cech fizycznych, zdolności,
-motywów, celów, postaw, wartości, ról społecznych; poczucie tożsamości wymaga refleksji nad
-własną osobowością"
-rozwoju ,Kryzys tożsamości,rozumiany jest tutaj jako konieczności wypracowania nowych form przystosowania się do środowiska i realizacji naszych potrzeb.
-rozwoju ,Periodyzacja rozwoju psychicznego,"Podział całego życia człowieka na okresy rozwojowe (etapy, stadia, fazy), wyróżnione ze względu na
-przyjęte przez badacza wskaźniki zmian rozwojowych funkcjonowania psychiki i zachowania, które
-zachodzą w określonych ramach czasowych wyznaczanych wiekiem życia."
-rozwoju ,Tempo,"szybkość, z jaką dokonują się w toku rozwoju różnorodne zmiany"
-rozwoju ,Rytm,"stopień regularności zachodzenia tych zmian w czasie, ich równomierność lub
-nierównomierność
-"
-rozwoju ,Retardacja,"zwolnione tempo rozwoju, powstaje na podłożu biologicznym lub środowiskowym;
-przyczyną opóźnienia bywają zarówno urazy okołoporodowe powodujące uszkodzenia
-ośrodkowego układu nerwowego, jak i niedobór bodźców zewnętrznych, stanowiących stymulację
-dla aktywności psychicznej dziecka"
-rozwoju ,Akceleracja,"różnice w tempie rozwoju między pokoleniami (wzrostu fizycznego, poziomu
-intelektualnego). Badania wskazują, że poziom intelektualny dzieci w młodszym wieku szkolnym jest
-o wiele wyższy obecnie, niż pod koniec wieku XIX."
-rozwoju ,Myślenie przedoperacyjne ,Umiejętność rozwiązywania problemów w działaniu
-rozwoju ,Stadium operacji konkretnych,"stadium myślenia, charakteryzujące się integracją, odwracalnością, wytworzeniem pojęcia stałości: liczby,
-długości, ciężaru, masy, objętości, czasu i przestrzeni "
-rozwoju ,Decentracja,"umiejętność przyjmowania punktu widzenia innej osoby w
-zakresie percepcji, myślenia i odczuwania "
-rozwoju ,Stadium operacji formalnych,"stadium, w którym występuje rozwój logicznego i abstrakcyjnego myślenia"
-rozwoju ,Koncepcja poznawczo-rozwojowa Fishera,"Emocje pojawiają się w momencie dostrzeżenia i oceny dającej się zauważyć zmiany, a zmiana
-ta musi mieć znaczenie dla jednostki. Emocje dzielimy tutaj na pozytywne - gdy osiągnięcie celu jest ułatwione oraz negatywne - kiedy jednostka napotyka wydarzenia, które przeszkadzają w osiągnięciu celu
-"
-pracy,Benchmarking,"proces wyszukiwania najlepszych cech cudzych wyrobów, technologii i usług w celu wykorzystania ich do doskonalenia własnych wyrobów, technologii i usług; zwany też analizą porównawczą z najlepszymi."
-pracy,Biznes plan,"oficjalny dokument zawierający określenie misji, opis wyrobów lub usług firmy, analizę rynku, prognozy finansowe oraz opis strategii zarządzania prowadzących do osiągnięcia celów, zwany też planem zamierzenia."
-pracy,Burza mózgów,"technika podejmowania decyzji i rozwiązywania problemów, w której dąży się do twórczych rozwiązań dzięki swobodnemu proponowaniu przez grupę albo jednostkę wielu różnych możliwości, choćby wydawały się nierealne."
-pracy,Cel,"to co organizacja stara się osiągnąć, organizacje mają często więcej niż jeden cel; cele są podstawowymi elementami organizacji."
-pracy,Ciemna zieleń ,"nastawienie organizacji na wartości ekologiczne; według tego podejścia należy żyć w większej harmonii z naturą, nie wyzyskiwać środowiska naturalnego do osiągania doraźnych zysków, zwłaszcza w sposób niezrównoważony i uniemożliwiający odtworzenie zasobów, zgodnie z tymi wartościami organizacja powinna czynnie chronić środowisko."
-pracy,Interakcje społeczne,"wzajemne oddziaływanie na siebie ludzi, najczęściej wyrażane jest przy użyciu języka i innych kodów kulturowych, kluczowa zagadnienie w komunikacji międzyludzkiej"
-pracy,Doskonalenie organizacji,"długofalowe działanie, wspierane przez naczelne kierownictwo, zmierzające do ulepszenia procesów rozwiązywania problemów i odnowy organizacji dzięki skutecznemu kierowaniu jej kulturą."
-pracy,Efekt Hawthorne,"możliwość wzrostu wydajności pracy robotników, którym poświęca się szczególną uwagę."
-pracy,Efektywność kierowania,"miara sprawności i skuteczności kierownika; miara tego, w jakim stopniu wyznacza on i osiąga odpowiednie cele."
-pracy,Ergonomia,"nowe podejście do projektowania zadań, polegające na dążeniu do zapewnienia maksymalnego bezpieczeństwa pracy."
-pracy,Funkcje przywódcze,"działania, związane z zadaniami oraz podtrzymujące trwałość grupy, których wykonywanie przez przywódcę lub inną osobę jest niezbędne do skutecznego funkcjonowania grupy."
-pracy,Gospodarowanie zasobami ludzkimi,"human resource management (HRM), jedna z funkcji kierowniczych, jest działalnością człowieka polegającą na zaspokajaniu nieograniczonych potrzeb przy użyciu ograniczonych zasobów."
-pracy,Hierarchia potrzeb według Maslowa,"teoria motywacji, według której ludzi motywuje pięć typów potrzeb uszeregowanych hierarchicznie, jest to od góry: potrzeby samorealizacji, potrzeby szacunku i uznania, potrzeby przynależności, potrzeby bezpieczeństwa, potrzeby fizjologiczne.
-"
-pracy,Jakość,"w miejscu pracy jakość wychodzi poza definicję wyrobu lepszego od przeciętnego, kupowanego po korzystnej cenie; obecnie dotyczy skupiania się na wytwarzaniu coraz lepszych wyrobów i usług po coraz bardziej konkurencyjnych cenach; oznacza to prawidłowe wykonywanie wszystkiego od początku, a nie poprawianie popełnionych błędów."
-pracy,Zarządzanie przez cele,"management by objectives (MBO), sformalizowany zbiór procedur, określający działania i analizujący postępy w dążeniu do osiągania wspólnych celów kierowników i ich podwładnych."
-pracy,Zarządzanie strategiczne,"proces zarządzania obejmujący opracowanie planów strategicznych, a następnie działanie na podstawie tych planów."
-pracy,Koncepcja gry organizacyjnej,"jej przedstawiciele to R. Cyert, J. March. Założenia koncepcji to: organizacje jako społeczne systemy konfliktowe, gra o władzę i zasoby, różnice celów, interesów i płynność władzy tworzą politykę organizacji, efektywną metodą radzenia z konfliktem są negocjacje, cele organizacji są wypadkową różnych wymuszeń organizacyjnych i powstają w drodze przetargu społecznego."
-pracy,Psychologia pozytywna,"szczęśliwe życie to życie zgodne z prawdziwym JA - to znaczy celowe, posiadające sens i znaczenie."
-pracy,Teoria Machiavellego,"teoria, która charakteryzuje się przekonaniem, że ludzie z natury są źli, z konieczności dobrzy, przewodzenia jest analogią działań wojennych, najlepszy sposób na przewodzenia to utrzymanie dyscypliny i bezwzględna egzekucja prawa, lepiej, by się bali, niż kochali, dążenie do przyjemności i brak samodyscypliny gubi przywódcę, dobre jest to, co skuteczne - cel uświęca środki"
-pracy,Teoria przywództwa Conveya,"teoria, która charakteryzuje się przekonaniem, że ludzie powinni kierować się zbiorem zasad naturalnych, praw i wartości społecznych, najbardziej motywuje wyzwolenie potencjału, przywódca zmianę powinien zacząć od siebie."
-pracy,Teoria przywódców charyzmatycznych House’a i Aditya,"teoria, która zakłada, że charyzma przywódcy przejawia się a) określonymi cechami, b) zachowaniami, c) w określonych sytuacjach."
-pracy,Lider charyzmatyczny,"wolą słabszych i zależnych podwładnych, często chcą uzależnić od siebie podwładnych, wzmacniają u podwładnych i nagradzają przede wszystkim lojalność"
-pracy,Lider transformacyjny,"są nastawieni na wzmacnianie samodoskonalenia organizacji i podwładnych, wpływają na podwładnych poprzez budzenie silnych emocji, wzmacniają u podwładnych I nagradzają dążenie do niezależności i poczucia pewności siebie"
-pracy,Mobbing,"określany jest jako zjawisko wielopostaciowe. Pojęcie mobbing wywodzi się z języka angielskiego, gdzie to mob oznacza tyle samo, co molestować, szykanować, napadać, atakować"
-pracy,Pracoholizm,"uzależnienie od pracy polegające na poświęcaniu jej nadmiernie dużo czasu kosztem wypoczynku, życia osobistego, zalicza się do uzależnień behawioralnych, objawia się on obsesyjną w wewnętrzna potrzebą ciągłego wykonywania pracy kosztem innych obszarów życia"
-pracy,Wypalenie zawodowe,"reakcja organizmu na chroniczny stres, wyczerpanie fizyczne, psychiczne i emocjonalne, najczęściej związane z pracą z ludźmi, lub długotrwałym zaangażowaniem w sytuację, która niosła za sobą duże obciążenie psychiczne"
-pracy,Stres,"jest napięciem odczuwanym, gdy trzeba podjąć ważną decyzję, martwieniem się z powodu nie układających się stosunków z ludźmi, niepokojem w pewnej sytuacji czy strachem wobec zagrażającego niebezpieczeństwa."
-pracy,Bezrobocie,"jest to niemożność znalezienia pracy zarobkowej przez ludzi w wieku produkcyjnym, zdolnych i chętnych do pracy oraz aktywnie jej poszukujących. Bezrobotni stanowią więc część ludności w wieku produkcyjnym."
-pracy,Aktywność zawodowa,"(zasoby siły roboczej) oznacza udział w procesie produkcji społeczeństwa, wykonywanie pracy, za którą należy się wynagrodzenie. Biorąc pod uwagę bardziej rozwiniętą definicje, można powiedzieć, że zasoby siły roboczej są częścią ludności w wieku produkcyjnym"
-pracy,Efektywność,"to rezultat podjętych działań, opisany relacją uzyskanych efektów do poniesionych nakładów. Oznacza najlepsze efekty produkcji, dystrybucji, sprzedaży czy promocji, uzyskane po najniższych kosztach."
-pracy,Technika obiadu,"bardziej lubimy osoby i obiekty spotykane podczas jedzenia, mamy tendencję do większej akceptacji tych opinii politycznych, które pojawiają się w trakcie spożywania posiłku"
-pracy,Reguła wzajemności,Silna potrzeba zrewanżowania się za otrzymane dobro
-pracy,Organizacja," w naukach społecznych jest to celowa grupa społeczna, która funkcjonuje według pewnych reguł i zasad, współpracująca ze sobą – by osiągnąć określony cel"
-pracy,Synergia,"synergiczność działań - wspólne działanie dające większe lub nowe efekty; działania uzupełniają się poprzez kooperację (współpracę) i synchronizację, efekt zorganizowanej pracy zespołowej, który jest większy niż suma efektów działań indywidualnych "
-pracy,Kapitał ludzki ,"Ogół zgromadzonych przez pracowników danej organizacji zasobów wiedzy fachowej, postaw, zdrowia, motywacji, zdolności, doświadczenia i umiejętności, które mają określoną wartość. Dzięki niemu możliwe jest uzyskanie większych dochodów dla pracownika (właściciela kapitału ludzkiego) oraz organizacji, która korzysta z tego kapitału na określonych warunkach."
-pracy,Motywacja,"to gotowość do podjęcia określonego działania i proces psychologiczny, który nadaje naszemu zachowaniu cel i kierunek."
-pracy,Teoria X,"Douglas McGregor wyróżnił dwa aspekty ludzkiego zachowania w pracy: 
-jeden z nich jest negatywny, nazywany Teorią X: pracownicy nie lubią pracy, a menedżerowie muszą sami skłaniać ich do wykonywania obowiązków"
-pracy,Teoria Y,"Douglas McGregor wyróżnił dwa aspekty ludzkiego zachowania w pracy: drugi pozytywny, zwany Teorią Y: w odpowiednich warunkach ludzie sami dążą do podjęcia odpowiedzialności za swoją pracę."
-pracy,Work-life balance,"koncepcja zarządzania czasem, stawiająca za cel odnalezienie równowagi pomiędzy pracą a życiem prywatnym"
-pracy,Assessment center,"to metoda rekrutacji będąca audytem kompetencji, przeprowadzonym na podstawie analizy zachowań kandydata w zaaranżowanych sytuacjach, odpowiadających jednak charakterem jego przyszłym zadaniom, jest zwykle statnim etapem procesu rekrutacji"
-pracy,Biodata,"termin dotyczący danych biograficznych, obejmuje różnorodne informacje dotyczące historii życia, kategorie informacji jak: wiek, wykształcenie, doświadczenia zawodowe, nagrody i kary, szczególnych życiowych aktywności i zainteresowań, postaw, wartości itp. Informacje tego typu zbierane są najczęściej w procesie selekcji i klasyfikacji kandydatów do pracy. Zakłada się przy tym, że przeszłe zachowania, doświadczenia czy właściwości jednostki mogą być wykorzystywane do przewidywania kariery zawodowej"
-pracy,Więzi technologiczne,łączą elementy organizacji biorące udział w jednym procesie; elementy te mogą należeć do różnych komórek/jednostek organizacyjnych
-pracy,Przywództwo,zdolność do wpływania lub sprawowania władzy we wspólnotach społecznych
-pracy,Zmiana organizacyjna,każda istotna modyfikacja jakiejś części organizacji
-pracy,Więzi informacyjne,"określają drogi przepływu informacji między stanowiskami/komórkami; w organizacjach o sztywnych, zbiurokratyzowanej strukturze więzi te mają formalnie kształt podobny do więzi liniowych"
-pracy,Artefakty,"pierwszy, najbardziej widoczny poziom kultury organizacyjnej w modelu Scheina; elementy które składają się na obraz danej kultury i ujawniają, czym ona jest dla członków grupy. Obejmują one wyroby, usługi, symbole (fizyczne), język (językowe), a nawet wzory zachowań członków organizacji (behawioralne)"
-pracy,Więzi liniowe (hierarchiczne),"określają relacje podrzędności/nadrzędności służbowej, wskazują kto jest przełożonym, a kto podwładnym"
-pracy,Więzi doradcze,"określają relację polegającą na doradztwie, dostarczaniu wskazówek pracownikom innych stanowisk"
-pracy,Model PERMA,w psychologii pozytywnej model określający 5 elementów dobrego życia.
-pracy,Równowaga praca-życie,"Stan, w którym jednostka radzi sobie z potencjalnym konfliktem między wymogami dotyczącymi angażowania się w pracę, a pełnieniem innych ról dających jej poczucie dobrobytu i spełnienia"
-pracy,Telepraca,"praca wykonywana regularnie poza zakładem pracy, z wykorzystaniem środków komunikacji elektronicznej"
-pracy,Globalizacja,"ogół procesów prowadzących do coraz większej współzależności i integracji państw, efektem takiego zjawiska jest tworzenie się ""jednego świata"""
-pracy,Kolektywizm,"ludzie są przede wsyztskim członkami grupy, który dba o nich w zamian za lojalność. Występuje silna identyfikacja ze społeczeństwem jako całością i mniejsza orientacja na samego siebie"
-pracy,Silent Generation,"pokolenie, które odeszło z rynku pracy, osoby urodzone w latach 1922-1945"
-pracy,Baby Boomers,"pokolenie na rynku pracy, pokolenie powojennego wyżu (1946-1960)"
-pracy,Kultura męska i kobieca,"Kultura męska - silna, agresywna, oparta ma rywalizacji np. PepsiCo
-Kultura kobieca - przyjazna, wspierająca np. Ikea"
-pracy,Hipoteza segmentacyjna,"Ludzie segmentują swoje życie, dzielą je na oddzielne sfery, które są wobec siebie obojętne. Nie łączy się więc satysfakcja między nimi."
-pracy,Chronic kickers,Ludzie chronicznie niezadowoleni. Ich satysfakcja z pracy była w miarę stabilna mimo zmian pracy lub pracodawcy
-pracy,prekariusz,"Osoba zatrudniona w formie elastycznej. Ktoś bez przyszłości życiowej. Nie ma przywilejów - emerytur, płatnych urlopów, etc."
-pracy,Hipoteza wzajemnego wpływu,Powodzenie lub niepowodzenie w jednej sferze życia przenosi się na inne.Na przykład praca na dom i rodzinę.
-pracy,Hipoteza kompensacyjna,Brak satysfakcji w jednej sferze jest jakby dopełniany przez satysfakcję w innej sferze życia. Popularne wyjaśnienie dlaczego niektórzy dużo pracują.
-pracy,Ageism,"dyskryminacja ze względu na wiek. Dotyka ludzi starych, postrzeganych jako niepotrzebnych"
-pracy,Konflikt,"proces, w którym strona A podejmuje świadome wysiłki zmierzające do udaremnienia dążeń strony B przez blokowanie w jakiś sposób osiągnięcia przez nią celów lub blokowanie działań w jej interesie"
-pracy,Wydajność,to miara skuteczności funkcjonowania systemu operacyjnego oraz wskaźnik sprawności i konkurencji danej firmy
-pracy,Perfekcjonizm,"zachowania związane ze stawianiem sobie bardzo wysokich standardów co do wykonania zadań, nadmierne przejmowanie się każdą porażką oraz koncentrowanie się nad różnicą między tym co udało nam się osiągnąć, a zakładanymi przez nas często nierealistycznymi oczekiwaniami"
-pracy,Technika Pomodoro, metoda zarządzania czasem opracowana przez Francesco Cirillo w latach 80. XX wieku. System wykorzystuje krótki budzik do podziału pracy na 25-minutowe sekcje - tzw. pomodori - i czasy przerw.
-pracy,Prokrastynacja,"lub zwlekanie, czy też ociąganie się, tendencja, utożsamiana z odwlekaniem, opóźnianiem lub przekładaniem czegoś na później, ujawniająca się w różnych dziedzinach życia."
-pracy,Zasada Pareto,"mówi o tym, że 20% Twoich nakładów i wysiłku odpowiada za 80% osiąganych efektów, jej istotą jest znalezienie tych 20% najważniejszych rzeczy, które decydują o sukcesie lub porażce, celem jej stosowania jest osiągnięcie jak największego efektu jak najmniejszym nakładem zasobów"
-pracy,Efekt Dunninga-Krugera,"zjawisko psychologiczne polegające na tym, że osoby niewykwalifikowane w jakiejś dziedzinie życia mają tendencję do przeceniania swoich umiejętności w tej dziedzinie, podczas gdy osoby wysoko wykwalifikowane mają tendencję do zaniżania oceny swoich umiejętności"
-pracy,Kompetencje miękkie ,"są kluczowe w karierze, często głównie poszukiwane u kandydata do pracy i choć nieco zdeprecjonowane przez swoją nazwę, mają niebywałe znaczenie zarówno w procesie rekrutacji, jak i pięciu się na wyższe szczeble kariery. Najbardziej pożądane to kreatywność, innowacyjność i rozwinięta inteligencja emocjonalna."
-pracy,Kompetencje twarde,"stanowią konkretne umiejętności specjalistyczne. Zdobywa się je podczas szkoleń, kursów czy zajęć teoretycznych i praktycznych w szkole lub na uczelni, więc łatwo ocenić czy ktoś je posiada; łatwo je również zweryfikować. Przykładem kompetencji twardych jest posiadanie prawa jazdy, znajomość języka obcego lub umiejętność posługiwania się danym programem."
-pracy,Kompetencje zawodowe,"to wypadkowa wiedzy, umiejętności i postaw – zdolności, predyspozycje osobowościowe, psychospołeczne oraz poznawcze, które składają się na całościowy obraz pracownika. Mieszczą się w nich kompetencje miękkie i twarde."
-pracy,Dyscyplina w pracy,podporządkowanie się jednostki lub grupy ściśle ustalonemu porządkowi obowiązującemu wszystkich członków
-pracy,Public relations,"kształtowanie stosunków publicznie danego podmiotu z jego otoczeniem. Celem działań public relations jest dbałość o dobry wizerunek, akceptację i życzliwość wobec działań danej osoby lub organizacji."
-pracy,Human Resources,"(HR) mieści się w zakresie zarządzania, odnosi się do indywidualnych pracowników oraz działu organizacji, który zajmuje się rekrutacją, szkoleniem, motywowaniem oraz zwalnianiem pracowników (czyli polityką personalną)"
-pracy,Konsensus,"porozumienie osiągnięte w wyniku dyskusji i kompromisu, często na drodze konsultacji, czy głosowania."
-pracy,Słyszenie a słuchanie,"słyszenie jest procesem biernym, zależy wyłącznie od sprawności narządu słuchu; słuchanie czyli uwaga słuchowa, jest procesem aktywnym- wymaga pewnego zaangażowania. Polegającym na umiejętności wykorzystania informacji płynących ze świata. Wpływa na poprawę komunikacji i motywacji."
-pracy,Model 7C,"Efektywna komunikacja przez maile powinna być: 1. Clear (Jasna), 2. Concise (Zwięzła), 3. Concrete (Konkretna), 4. Correct (Poprawna), 5. Coherent (Logiczna), 6. Complete (Kompletna), 7. Courteous (Uprzejma)"
-sądowa,teoria przyczyn przestępczości,osobowość można opisać na podstawie dwóch cech dymensjonalnych: r – siła natężenia procesów ruchowych (emocjonalnych) p – siła natężenia procesów poznawczy (intelektualnych). p > r - refleksyjni; r > p bojaźliwi.
-sądowa,efekt CSI,"wpływ seriali o kryminalistyce i dowodach naukowych na amerykańskich przysięgłych, w wyniku czego przysięgli uniewinniali oskarżonych, gdyż dowody naukowe prezentowane na sali rozpraw były mniej przekonujące niż te pokazywane w serialach typu CSI; seriale mają wpływ na świadomość prawną i postawy obywateli w opinii biegłych sądowych, prokuratorów, sędziów i policjantów."
-sądowa,psychologia kryminalistyczna,"stanowi nową dziedzinę psychologii stosowanej. Obejmuje psychologiczne aspekty kryminalistyki, czyli nauki o metodach ustalania faktu przestępstwa, sposobu jego popełniania, wykrywania sprawców i zapobiegania przestępstwom oraz innym ujemnym zjawiskom społecznym."
-sądowa,kryminologia,"określa przedmiot naszych dywagacji jako: ""... naukę o przestępstwie i przestępcy, objawach i przyczynach przestępczości i innych związanych z nią zjawiskach patologii społecznej oraz o zapobieganiu im, a także o funkcjonowaniu systemu sprawiedliwości karnej..."""
-sądowa,mediacje sądowe,w trakcie mediacji zwraca się szczególną uwagę na zrozumienie przez sprawcę krzywdy jaką wyrządził osobie pokrzywdzonej oraz na wzięcie przez sprawcę odpowiedzialności za naprawienie szkody i zadośćuczynienie.
-sądowa,Romana Wiśniacka,eksperymentalne badania nad zeznaniami (koniec lat 20-tych XX wieku) uważana za pionierkę polskiej psychologii sądowej – bardzo duży wkład w psychologię zeznań.
-sądowa,mediator,"pomaga rozważyć wszelkie możliwe rozwiązania, negocjować je w warunkach współpracy i szukać takiego porozumienia, które dla obu stron będzie satysfakcjonujące i możliwe do wcielenia w życie."
-sądowa,kryminalistyka,"nauka o taktycznych zasadach i sposobach oraz o technicznych metodach i środkach rozpoznawania, a także wykrywania prawnie określonych, ujemnych zjawisk społecznych, a w szczególności przestępstw i ich sprawców oraz udowadniania istnienia lub braku związku między osobami a zdarzeniami."
-sądowa,rehabilitacja psychiatryczna,"system skoordynowanych oddziaływań społecznych, psychologicznych, wychowawczych i medycznych umożliwiających chorym psychicznie samodzielną egzystencję i integrację społeczną."
-sądowa,resocjalizacja,"proces modyfikacji osobowości jednostki społecznej w celu przystosowania jej do życia w danej zbiorowości, a w węższym rozumieniu w społeczeństwie. proces modyfikacji osobowości jednostki społecznej w celu przystosowania jej do życia w danej zbiorowości, a w węższym rozumieniu w społeczeństwie. proces modyfikacji osobowości jednostki społecznej w celu przystosowania jej do życia w danej zbiorowości, a w węższym rozumieniu w społeczeństwie. proces modyfikacji osobowości jednostki społecznej w celu przystosowania jej do życia w danej zbiorowości, a w węższym rozumieniu w społeczeństwie."
-sądowa,seryjny morderca,"określenie opisujące osobę, która dopuściła się trzech lub więcej morderstw w oddzielnych epizodach."
-sądowa,psychopatologia,"jej domeną jest opisywanie, wyjaśnianie i porządkowanie nieprawidłowych, chorobowych zjawisk psychicznych, którym przypisuje się znaczenie kliniczne, czyli objawów psychopatologicznych lub zespołów objawowych, a których rozpoznanie, analiza i ocena są przydatne w postępowaniu terapeutycznym."
-sądowa,zaburzenia myślenia,"pojęcie określające grupę zróżnicowanych objawów psychopatologicznych, które wyrażają się zakłóceniami myśli i wypowiedzi w różnych ich aspektach, prowadząc do ich nieadekwatności, bezproduktywności lub niekomunikatywności.pojęcie określające grupę zróżnicowanych objawów psychopatologicznych, które wyrażają się zakłóceniami myśli i wypowiedzi w różnych ich aspektach, prowadząc do ich nieadekwatności, bezproduktywności lub niekomunikatywności.pojęcie określające grupę zróżnicowanych objawów psychopatologicznych, które wyrażają się zakłóceniami myśli i wypowiedzi w różnych ich aspektach, prowadząc do ich nieadekwatności, bezproduktywności lub niekomunikatywności.pojęcie określające grupę zróżnicowanych objawów psychopatologicznych, które wyrażają się zakłóceniami myśli i wypowiedzi w różnych ich aspektach, prowadząc do ich nieadekwatności, bezproduktywności lub niekomunikatywności."
-sądowa,urojenia,"zaburzenia treści myślenia polegające na fałszywych przekonaniach, błędnych sądach, odpornych na wszelką argumentację i podtrzymywane mimo obecności dowodów wskazujących na ich nieprawdziwość.zaburzenia treści myślenia polegające na fałszywych przekonaniach, błędnych sądach, odpornych na wszelką argumentację i podtrzymywane mimo obecności dowodów wskazujących na ich nieprawdziwość.zaburzenia treści myślenia polegające na fałszywych przekonaniach, błędnych sądach, odpornych na wszelką argumentację i podtrzymywane mimo obecności dowodów wskazujących na ich nieprawdziwość.zaburzenia treści myślenia polegające na fałszywych przekonaniach, błędnych sądach, odpornych na wszelką argumentację i podtrzymywane mimo obecności dowodów wskazujących na ich nieprawdziwość."
-sądowa,dereizm,"objaw psychopatologiczny, należący do grupy zaburzeń myślenia, polegający na nieliczeniu się z realiami rzeczywistości mogący skutkować różnego rodzaju niedostosowaniem do warunków panujących w otoczeniu, w tym zachowaniami dziwacznymi lub naruszającymi powszechnie przyjmowane reguły społeczne. objaw psychopatologiczny, należący do grupy zaburzeń myślenia, polegający na nieliczeniu się z realiami rzeczywistości mogący skutkować różnego rodzaju niedostosowaniem do warunków panujących w otoczeniu, w tym zachowaniami dziwacznymi lub naruszającymi powszechnie przyjmowane reguły społeczne. objaw psychopatologiczny, należący do grupy zaburzeń myślenia, polegający na nieliczeniu się z realiami rzeczywistości mogący skutkować różnego rodzaju niedostosowaniem do warunków panujących w otoczeniu, w tym zachowaniami dziwacznymi lub naruszającymi powszechnie przyjmowane reguły społeczne. objaw psychopatologiczny, należący do grupy zaburzeń myślenia, polegający na nieliczeniu się z realiami rzeczywistości mogący skutkować różnego rodzaju niedostosowaniem do warunków panujących w otoczeniu, w tym zachowaniami dziwacznymi lub naruszającymi powszechnie przyjmowane reguły społeczne."
-sądowa,zdrowie psychiczne,"pełny dobrostan psychiczny, fizyczny oraz społeczny człowieka."
-sądowa,biegły,osoba uznana za eksperta w zakresie swojej działalności. Powoływana w postępowaniu sądowym w celu przedstawienia fachowej opinii o okolicznościach mających znaczenie dla wyniku rozprawy sądowej.
-sądowa,protokolant,"urzędnik państwowy, ściśle współpracujący z sędzią. Protokołuje rozprawy oraz wprowadza dane do systemu informatycznego."
-sądowa,ławnik,"niezawodowy członek składu orzekającego (sądu), stanowiący czynnik społeczny w wymiarze sprawiedliwości."
-sądowa,oskarżony,"osoba, przeciwko której wniesiono oskarżenie do sądu."
-sądowa,podejrzany,"osoba, co do której wydano postanowienie o postawieniu zarzutów w związku z przystąpieniem do przesłuchania w charakterze podejrzanego"
-sądowa,skazany,"osoba, którą sąd w postępowaniu karnym, prawomocnym wyrokiem lub nakazem karnym uznał winną popełnienia przestępstwa i wymierzył karę."
-sądowa,obrońca,osoba występująca w imieniu oskarżonego na podstawie udzielonego pełnomocnictwa lub decyzji sądu. Może działać tylko na korzyść oskarżonego.
-sądowa,prokurator,osoba uprawniona do ścigania przestępstwa oraz stawiania zarzutów.
-sądowa,świadek,osoba powołana przez organ prowadzący postępowanie sądowe/administracyjne do złożenia zeznań.
-sądowa,zeznanie,oficjalne wyjaśnienie złożone w sądzie lub przed innymi władzami.
-sądowa,pomoc postpenitencjarna,"jedna z form polityki społecznej państwa, nastawiona na niesienie wsparcia osobom opuszczającym zakłady karne i poprawcze w ich readaptacji do życia na wolności, w społeczeństwie."
-sądowa,readaptacja społeczna,"przygotowanie skazanych do odpowiedzialnego życia w społeczeństwie, tym samym wykształcenie w osadzonym umiejętności konstruktywnego spędzania czasu wolnego i wchodzenia w akceptowane społecznie role."
-sądowa,kara,określona przepisami prawa dolegliwość dla podmiotu prawa będąca sankcją za niepodporządkowanie się normom prawnym.
-sądowa,sprawiedliwość naprawcza,"proces, w którym spotykają się wszystkie strony związane z konkretnym przestępstwem, aby wspólnie rozstrzygnąć, jak zaradzić jego skutkom i ich następstwom."
-sądowa,zemsta,"szkodliwe działanie wymierzone przeciwko osobie lub grupie, w odpowiedzi na działanie (rzeczywiście, bądź postrzegane jako) szkodliwe."
-sądowa,socjalizacja,"proces przejmowania przez jednostkę wiedzy, kompetencji komunikacyjnych, umiejętności psychospołecznych, a także systemu wartości i norm, wynikający z oddziaływania środowiska społecznego."
-sądowa,metody resocjalizacji,"mediacja , metoda multimodalna oraz praca socjalna w środowisku zamkniętym."
-sądowa,celkowy system penitencjarny,"pierwszy znany system penitencjarny, pierwotnie zastosowano w nim izolację w dzień i w nocy, umieszczając więźnia w jednoosobowej celi i dając mu do czytania Biblię."
-sądowa,niedostosowanie społeczne,"to zaburzenie charakterologiczne o niejednolitych objawach, spowodowane niekorzystnymi zewnętrznymi lub wewnętrznymi warunkami rozwoju, a wyrażające się wzmożonymi i długotrwałymi trudnościami w dostosowaniu się do normalnych warunków społecznych i w realizacji zadań życiowych danej jednostki."
-sądowa,zabójstwo,przestępstwo umyślne polegające na pozbawieniu człowieka życia
-sądowa,morderstwo,"zaplanowane, z premedytacją i z zimną krwią pozbawienie kogoś życia; specyficzny typ zabójstwa."
-sądowa,przestępstwo seksualne,obejmuje przestępstwa przeciwko wolności seksualnej.
-sądowa,niepełnosprawność psychiczna,"obniżona sprawność umysłowa spowodowana wrodzoną anomalią, która czyni korę mózgową niezdolną – w mniejszym lub większym stopniu do procesów myślowych."
-sądowa,system terapeutyczny,"odbywanie kary przez skazanych z niepsychotycznymi zaburzeniami psychicznymi, popełnionymi w związku z zaburzeniami preferencji seksualnych, upośledzeni umysłowo, a także uzależnieni od alkoholu albo innych środków odurzających lub psychotropowych oraz skazani niepełnosprawni fizycznie - wymagający oddziaływania specjalistycznego, zwłaszcza opieki psychologicznej, lekarskiej lub rehabilitacyjnej."
-sądowa,psychopata,osoba o pewnogo rodzaju dysfunkcjch pozwnawczo-emocjonalnych.
-sądowa,automutylacja,"zachowania samodręczeniowe: w stanach nadpobudliwości psychoruchowej, w psychonerwicach o ostrym przebiegu, na tle aktorstwa neuropatycznego i histerii, na podłożu poczucia niższości i winy oraz potrzeby zaznaczenia się, w stanach nadpobudliwości uczuciowej i braku równowagi psychicznej, w ascetyzmie, w samobójstwie."
-sądowa,depresja,"choroba, która objawia się smutkiem, utratą zainteresowań i przyjemności, poczuciem winy, niską samooceną, zaburzeniami snu i apetytu, uczuciem zmęczenia i osłabieniem koncentracji."
-sądowa,zaburzenie osobowości,"stan nieprawidłowego rozwoju niektórych cech osobowości. W zależności od tego, jakie cechy ulegają wypaczeniu czy intensyfikacji, możemy mówić o różnych rodzajach zaburzeń osobowości."
-sądowa,orzeczenie psychologiczno-penitencjarne,orzeczenie wyjaśniające proces wykolejenia społecznego skazanego oraz stopień jego domoeralizacji i podatności oddziaływania
-sądowa,opinia psychologiczna,określa stan poczytalność badanego
-sądowa,trening zastępowania agresji (ART),"polega na: treningu umiejętności prospołecznych, treningu kontroli złości i treningu wnioskowania moralnego."
-sądowa,ergoterapia,forma terapii wykorzystująca różne rodzaje zajęć i rekreacji jako środki terapeutyczne.
-sądowa,wolontariat,"nieodpłatne, świadome i dobrowolne działanie na rzecz innych osób, społeczności czy organizacji."
-sądowa,areszt śledczy,"miejsce osadzania osób tymczasowo aresztowanych. Areszty śledcze występują w dwóch rodzajach: samodzielne, oddział zakładu karnego."
-sądowa,osoba pozbawiona wolności,osoba przymusowo umieszczona w zakładzie karnym
-sądowa,personel penitencjarny,"Nadzorują przebieg pracy wychowawczej w zakładzie karnym. Decydują o warunkowych przedterminowych zwolnieniach, lub o orzeczeniu nadzoru ochronnego, po odbyciu kary pozbawienia wolności."
-sądowa,Duszpasterstwo więzienne,Obejmuje opieką religijną osoby pozbawione wolności i przebywające w aresztach śledczych.
-sądowa,przepustki systemowe,"W przypadku odbywania kary pozbawienia wolności w zakładzie karnym typu półotwartego skazanemu można udzielić przepustek nie częściej niż raz na dwa miesiące, łącznie na okres nieprzekraczający czternastu dni w roku"
-sądowa,przepustki zadaniowe,do przepustek zadaniowych zalicza się zezwolenie na czasowe opuszczenie zakładu karnego. Okres do sześciu miesięcy przed przewidywanym warunkowym zwolnieniem lub przed wykonaniem kary ustalono jako czas niezbędny na przygotowanie skazanego do życia po zwolnieniu.
-sądowa,praca w zakładach karnych,"Obecnie w polskim systemie penitencjarnym skazanemu zapewnia się w miarę możliwości świadczenie pracy. Zgodnie z tymi przepisami skazanego zatrudnia się na podstawie skierowania do
- pracy albo umożliwia się mu wykonywanie pracy zarobkowej w ramach umowy o pracę, umowy zlecenia,
- umowy o dzieło, umowy o pracę nakładczą lub na innej podstawie prawnej."
-sądowa,depersonalizacja,"Objaw psychopatologiczny związany ze zmienionym odczuwaniem siebie. Polega na zmienionym postrzeganiu doświadczania siebie samego lub własnych przeżyć. Dotknięta nim osoba obserwuje niejako z zewnątrz swe ciało bądź umysł, odczuwa coś w rodzaju rozdziału od siebie samego. Towarzyszy temu poczucie nierealności przypominające sen, bądź też obcości, czy też części tylko swego ciała, czy to własnych przeżyć, czy to siebie w ogóle."
-sądowa,derealizacja,"Zaburzenie psychiczne określające różnego rodzaju odczuwanie zmian otaczającego świata. Osoba dotknięta derealizacją ma poczucie jakby otaczający ją świat był w jakiś sposób zmieniony, nierealny, oddalony. Główną przyczyną pojawienia się tego zaburzenia jest lęk, jednak może do niej również doprowadzić zmęczenie."
-sądowa,prizonizacja,"Proces przystosowania się człowieka do warunków panujących w zakładzie karnym lub areszcie śledczym. Polega na przyswojeniu wartości, norm i wzorów zachowania, które występują w społeczności więziennej."
-sądowa,stygmatyzacja,"Proces nadawania określeń dotyczących zachowania jednostkom, grupom społecznym lub kategoriom społecznym, w wyniku czego przyjmują one nadane im cechy i zaczynają działać zgodnie z przypisanymi im etykietami."
-sądowa,kara ograniczenia wolności,"Odmiana kary pracy na cele społecznie użyteczne. Wykonanie kary ograniczenia wolności ma na celu wzbudzenie w skazanym woli kształtowania jego społecznie pożądanych postaw, w szczególności poczucia odpowiedzialności oraz potrzeby przestrzegania porządku prawnego."
-sądowa,grzywna,"Kara kryminalna o charakterze majątkowym orzekana za przestępstwa, przestępstwa skarbowe, wykroczenia lub wykroczenia skarbowe. We współczesnych systemach prawnych kara grzywny występuje w dwóch formach. Pierwszą jest grzywna kwotowa, polegająca na wskazaniu przez sąd konkretnej kwoty pieniężnej, którą skazany musi zapłacić. Drugą natomiast jest grzywna orzekana w stawkach dziennych, której wysokość ustalana jest na podstawie możliwości zarobkowych skazanego."
-sądowa,kurator sądowy,"Funkcjonariusz publiczny, pełniący swoje obowiązki w jednym zespole kuratorskiej służby sądowej i realizujący określone przez prawo zadania o charakterze wychowawczo-resocjalizacyjnym, diagnostycznym, profilaktycznym i kontrolnym, które są związane z wykonywaniem orzeczeń sądu. Kuratorzy sądowi wykonują swoje zadania zarówno w środowisku osób, których dotyczy postępowanie, czyli podopiecznych, w miejscu ich zamieszkania, jak i na terenie zakładów zamkniętych i placówek ich pobytu, w szczególności na terenie zakładów karnych, placówek opiekuńczo-wychowawczych oraz leczniczo-rehabilitacyjnych."
-sądowa,postępowanie cywilne,"Postępowanie, w którym rozpatruje się sprawy cywilne. Sprawy cywilne są to sprawy z zakresu prawa cywilnego, rodzinnego i opiekuńczego, prawa pracy, sprawy z zakresu ubezpieczeń społecznych oraz inne sprawy, do których przepisy Kodeksu postępowania cywilnego stosuje się z mocy ustaw szczególnych"
-sądowa,postępowanie karne,"zespół norm prawnych regulujących czynności procesowe zmierzające do realizacji prawa karnego materialnego. Jego głównym celem jest ustalenie, czy zaistniał czyn zabroniony mający postać przestępstwa, a następnie wykrycie jego sprawcy i pociągnięcie go do odpowiedzialności karnej."
-sądowa,probacja,"ogólna nazwa instytucji służących resocjalizacji i prewencji kryminalnej. Opierają się one przede wszystkim na kontrolowanej wolności, pieczy nad sprawcą przestępstwa pozostającym pod dozorem kuratora, nadzorem wyspecjalizowanego organu - kuratora sądowego lub innych podmiotów. W ramach tej pieczy powołany organ podejmuje odpowiednie działania kontrolne, ale także działania wychowawczo-resocjalizacyjne, diagnostyczne, profilaktyczne."
-sądowa,zdarzenie nadzwyczajne,"jest to finansowy skutek zdarzeń o charakterze losowym, powstający w sposób niepowtarzalny poza zwyczajną działalnością jednostki gospodarczej. zdarzeń losowych spowodowanych czynnikami naturalnymi np. powodzie, pożary etc."
-sądowa,poszkodowany,"osoba fizyczna lub prawna, której dobro prawne zostało bezpośrednio naruszone lub zagrożone przez przestępstwo"
-sądowa,przestępczość wewnątrzwięzienna,"wszelkiego rodzaju czyny niedozwolone popełniane przez skazanych w więzieniu, np. morderstwa, pobicia itd."
-sądowa,służba więzienna,umundurowana i uzbrojona formacja realizująca zadania w zakresie wykonywania kar pozbawienia wolności i tymczasowego aresztowania.
-sądowa,zadania administracji penitencjarnej,"prowadzenie oddziaływań penitencjarnych i resocjalizacyjnych wobec osób skazanych na karę pozbawienia wolności,wykonywanie tymczasowego aresztowania, humanitarne traktowanie osób pozbawionych wolności, zapewnienie w zakładach karnych oraz aresztach śledczych porządku i bezpieczeństwa itp."
-sądowa,cele kary pozbawienia wolności,"wzbudzanie w skazanym woli współdziałania w kształtowaniu jego społecznie pożądanych postaw, w szczególności poczucia odpowiedzialności oraz potrzeby przestrzegania porządku prawnego i tym samym powstrzymania się od powrotu do przestępstwa."
-sądowa,prewencja ogólna,jedna z dyrektyw wymiaru kary. Jej celem jest oddziaływanie na społeczeństwo przez wymierzanie sprawiedliwości w sprawach karnych.
-sądowa,prewencja szczególna,jeden z celów kary i zarazem dyrektywa jej wymiaru. Jej celem jest zapobieżenie ponownemu popełnieniu czynu przez sprawcę.
-sądowa,resocjalizacja penitencjarna,proces oddziaływania psychokorekcyjnego na skazanych.
-sądowa,metody resocjalizacyjne,"mediacja, metoda multimodalna, praca socjalna w środowisku zamkniętym."
-sądowa,pomoc postpenitencjarna,"jedna z form polityki społecznej państwa, nastawiona na niesienie wsparcia osobom opuszczającym zakłady karne i poprawcze w ich readaptacji do życia na wolności, w społeczeństwie."
-sądowa,reintegracja społeczna,"działalność mająca odbudowywać oraz umacniać u osób objętych takimi działaniami, umiejętności uczestniczenia w życiu społecznym oraz pełnienia ról społecznych w miejscu pracy, życia i pobytu."
-sądowa,fundusz pomocy pokrzywdzonym i pomocy postpenitencjarnej,"państwowy fundusz celowy ukierunkowany na pomoc pokrzywdzonym i świadkom, przeciwdziałanie przestępczości oraz pomoc postpenitencjarną, którego dysponentem jest Minister Sprawiedliwości."
-sądowa,powrotność do przestępstwa,"osoba co najmniej raz skazaną za popełnienie przestępstwa, która ponownie zostaje skazana za przestępstwo popełnione po poprzednim skazaniu"
-sądowa,Pierwsza kategoria personelu więziennego,"osoby stale pracujące z więźniami (dział ochrony, psychologowie, wychowawcy, lekarze)"
-sądowa,Druga kategoria personelu więziennego,członkowie kierownictwa zakładu penitencjarnego oraz administracja penitencjarna.
-sądowa,Trzecia kategoria personelu więziennego,"personel, który z uwagi na swoje obowiązki tylko do czasu do czasu znajduje się w kontakcie ze skazanymi, jak na przykład kierowcy, pracownicy finansowi, wizytatorzy."
-sądowa,Wychowawcza funkcja przepustki,"czynnik ten pozwala na określenie tego, czy przepustka jako najwyższa forma nagrody regulaminowej jest postrzegana przez skazanych poprzez kontekst wychowawczy jako coś, na co warto zapracować, okazać pozytywne zmiany, jakie zaszły w nich samych, na przykład to, że potrafią kształtować swoje relacje interpersonalne ze współosadzonymi, a także z personelem."
-sądowa,Społeczna funkcja przepustki,"jest związana z poczuciem przynależności skazanego do społeczeństwa, odwołuje się do jego kontaktów emocjonalnych z rodziną, z najbliższymi mu osobami. Faktor ten jest istotny również z tego powodu, iż człowiek istnieje i funkcjonuje w pewnym określonym systemie społecznym i ważne jest to, na ile się czuje jego autonomiczną częścią."
-sądowa,Kryminalna funkcja przepustki,"jest faktorem biorącym pod uwagę możliwość wykorzystania przepustki przez skazanego w sposób negatywny, na przykład umożliwienie mu odnowienia starych kontaktów przestępczych bądź nawiązania nowych, a w konsekwencji dokonanie przestępstwa podczas przebywania na przepustce. Jest to najczęściej wykorzystywany przez przeciwników udzielania skazanym przepustek argument."
-sądowa,Hedonistyczna funkcja przepustki,"naturalny element życia ludzkiego, który jest związany z naszymi potrzebami i pragnieniami."
-sądowa,Teorie bezwzględne,"teorie sprawiedliwości odwetowe lub retrybucyjne opierają się na założeniu, że za zło należy odpłacać złem, a krzywdą za krzywdę."
-sądowa,Techniki neutralizacji,formułowanie usprawiedliwień i wymówek po tym jak zachowaliśmy się w sposób niezgodny ze standardami moralnymi
-sądowa,Orientacja temporalna,"perspektywę postrzegania czasu definiuje się jako proces, za pomocą którego jednostka porządkuje swoje osobiste doświadczenia, dzieląc je na czasowe strefy: przeszłość, teraźniejszość i przyszłość"
-sądowa,Klasyfikacja skazanych,"podział na grupy mający zapewnić właściwe skierowanie skazanych do rodzaju i typu zakładu karnego, systemu odbywania kary."
-sądowa,Mechanizm przemieszczenia,rozładowywanie stłumionych uczuć na obiektach mniej zagrażających od tych budzących negatywne emocje
-sądowa,Mechanizm sublimacji,przejawianie zachowań popędowych w formie akceptowalnej społecznie
-sądowa,Socjalizacja emocjonalna,"obejmuje przede wszystkim interakcje w rodzinie, głownie relacje rodzic - dziecko, w której dzieci uczą się rozumieć i regulować własne emocje"
+W serialu ""Świat według Kiepskich"" na tą chorobę cierpi główny bohater, także inni bohaterowie 
+mają alkoholickie skłonności
+ "
+rozwojowa,Choroba sieroca,"Występujący u dzieci zespół zaburzeń i opóźnień w rozwoju ﬁzycznym, 
+ruchowym i psychicznym spowodowany długotrwałą rozłąką z osobami bliskim 
+(rodzicami, matką). Występuje najczęściej u dzieci, które są wychowywane w 
+domach dziecka, ale również w rodzinach gdzie występują nieprawidłowe relacje.
+ „Pomarańczowa droga” – książka, która podejmuje otwarcie temat choroby 
+sierocej w dorosłym życiu."
+rozwojowa,Mity Osobiste,"Jest to zagadnienie występujące wśród młodzieży, opisuje ono przeświadczenie o własnej wyjątkowości,
+często związane z fantazjami na temat samego siebie.
+Dodatkowo, osoby młode mają skłonność do wiary we własną niepowtarzalność. 
+Rzeczy, które im się przytrafiły, są uznawane za nadzwyczajne, nie zdarzyły się nikomu innemu. 
+W filmie ""Gorzka Siedemnastka"" główna bohaterka jest przeświadczona o braku zrozumienia swojej sytuacji
+wśród otaczających ją ludzi,
+natomiast tytułowa bohaterka filmu ""Lady Bird"" owija swoją osobę mitem w pogoni za indywidualnością. "
+rozwojowa,Podkultura Dewiacyjna," Jest to rodzaj subkultury, która zalicza się do grup nierespektujących ogólnie przyjętych
+zasad moralnych lub prawnych, odstępują od pożądanych wzorów zachowania, norm
+czy wartości w danym systemie społecznym. Najczęściej dotyka osób młodych. 
+W filmie ""Mechaniczna Pomarańcza"" brutalnie eksplorowany zostaje temat dewiacji wśród młodzieży."
+rozwojowa,Narkomania,"Pojęcie często pojawiające się w rodzinach patologicznych (oczywiście nie tylko),
+oznacza zażywanie środków z grup pobudzających, odurzających oraz halucynogennych. 
+Szkodzi fizycznie, psychicznie oraz społecznie. Jest podzielona na fazy rozwoju: faza inicjacji
+(pierwszy raz), faza eksperymentala (osoba próbuje różnych środków, może się skończyć na tym
+etapie), faza zażywania (regularne przyjmnowanie, odurzanie się, odrywanie od rzeczywistości),
+faza uzależnienia (gdzie narkoman nie potrafi żyć bez danej substancji bądź nie potrafi odmówić jej
+przyjęcia)."
+rozwojowa,Cyrkularność,"Zakłada przyczynowość, która jest traktowana jako proces kołowy, bez widocznego początku i końca.
+Poszczególni członkowie rodziny oddziałują na siebie za pomocą tzw. sprzężeń zwrotnych,
+w których afekty osób wzmacniają się wzajemnie.
+Przykładem może być rodzina, w której ojciec jest uzależnionym hazardzistą, źle czującym się w domu
+ a matka negatywnie reaguje na tracenie większości wypłaty w wyniku przegranych. Przez co obie strony
+się ""nakręcają"" i powstaje wspomniane wyżej sprężenie zwrotne."
+rozwojowa,Pozorna Obłuda ,"Typowe dla młodego człowieka idealistyczne podejście do życia, początek zainteresowania filozofią, różnorakimi (czasem również i skrajnymi) ideami. W tym okresie sposób funkcjonowania przypomina ciągłe “bujanie w obłokach”. Dla dojrzewającej osoby ogromnie rażące zazwyczaj jest zachowanie ludzi dojrzałych,  rozbieżność ich postaw i deklaracji oraz ich realnych działań i praktycznego podejścia do ich stosowania."
+zdrowia,Mierzenie Szczęscia,"Okazuje się, że szczęście..da się zmierzyć! Zajmują się tym, np. badacze z Happy Planet Index (światowy indeks szczęścia). Uproszczony wzór na światowy wskaźnik szczęścia wygląda następująco: odczuwany dobrostan pomnożony przez oczekiwaną długość życia i to wszystko podzielone przez ślad ekologiczny. Według tych badań okazje się, że Kostaryka jest dobrym kierunkiem życiowej emigracji!"
+zdrowia,Wdzięczność,"Wdzieczność może być emocją, stanem czy dyspozycją. Wiele badań z zakresu psychologii pozytywnej dostarcza informacji, że praktykowanie wdzięczości poprawia nasze samopoczucie! Zachodzi tutaj tzw. korelacja pozytywna, kiedy wraz ze wzrostem jednej zmiennej rośnie wartość drugiej. Na przykład: im więcej się uczę, tym lepsze mam oceny. W tym przypadku im częściej praktykuję wdzięczność, tym lepsze mam samopoczucie"
+rozwojowa,Imprinting,"polega na uczeniu się poprzez naśladownictwo, które pojawia się bardzo wcześnie,
+ trwa bardzo krótko, a daje trwałe efekty, determinująC w dużym stopniu dalsze
+ społeczne zachowanie się."
+zdrowia,Uzależnienia behawioralne,"Uzależnienia behawioralne wymieniane są jako jedno z najważniejszych zjawisk psychopatologicznych występujących we współczesnym świecie. Możemy rozróżnić uzależnienie od, np. pracy, zakupów ,gier, sportu, a nawet uczenia się! Zdrową pasję możemy oglądać w serialu ""Last Dance"" na Netflixie, a noszącą znamiona patologii w oskarowym filmie 'Wishplash""."
+zdrowia,Wzorzec zachowania typu A,"Hipoteza o występowaniu osobowości typu A, została po raz pierwszy postawiona przez Williama Oslera. Opiera się na założeniu, że istnieje związek osobowości człowieka z występującymi u niego chorobami układu krążenia. Osobowość typu A wyróżnia funkcjonowanie w ciągłym pośpiechu, robienie kilku rzeczy na raz, nieustanne rozmyślanie o kolejnych punktach na liście „do zrobienia”, brak aprobaty dla nawet najmniejszych opóźnień i niepunktualności. Charakterystyczne jest też dążenie do perfekcji, nadmierna ambicja, wysokie wymagania wobec siebie i innych oraz zamiłowanie do rywalizacji. Typ A jest energiczny i wybuchowy, szybko mówi i chodzi, w czasie dyskusji bardzo często przerywa rozmówcy, zachowuje się wrogo wobec  niego. Widoczne jest napięcie mięśni twarzy, dłonie są zaciśnięte. Osoby typu A nie potrafią się relaksować."
+rozwojowa,Mowa telegraficzna,"Sposób mówienia polegający na używaniu głównie rzeczowników, co za tym idzie, pomijaniu czasowników, przyimków i przymiotników, bądź tych części słów które pozbawione są akcentu. Wiąże się z tym również ubytek fluencji słownej oraz agramatyzm, a także trudność z budowaniem zdań oraz dłuższych wypowiedzi słownych. Zaburzona zostaje również artykulacja. Przykładem takiej mowy może być Kali, bohater powieści H. Sienkiewicza i jego wypowiedzi typu „Kali jeść, Kali pić”."
+pracy,Efekt Hawthorne,"Zjawisko wzrostu wydajności pracy mające miejsce w organizacji, w momencie gdy poświęca się szczególną uwagę właśnie pracownikowi. Innymi słowy samo zainteresowanie pracownikami, branie pod uwagę ich opinii i zdania wpływa na zwiększenie efektywności. Czasem wystarczą niewielkie zmiany w firmie, dodatkowo konsultowane z pracobiorcami, aby zwiększyć ich zadowolenie i satysfakcję."
+pracy,Lider transformacyjny,"Przywódcy, który nastawiony jest na wzmacnianie samodoskonalenia organizacji, wpływa na podwładnych poprzez własny entuzjazm. Działa jako wzór do naśladowania i jako motywator, który budzi podekscytowanie. Lider inspiruje ludzi do zwiększania swoich umiejętności i możliwości, budowania pewności siebie i promowania innowacji. Nie musi zatem rozkazywać, krzyczeć ani straszyć, pracownicy sami chcą angażować się w inspirujące aktywności."
+pracy,Mobbing,"Forma celowego dręczenia psychicznego polegająca na wrogich i nieetycznych zachowań wobec pracownika lub grupy pracowników, trwającego przez dłuższy czas. Ma charakter nękania psychicznego, skutkującego kłopotami w ogólnym funkcjonowaniu jednostki, osamotnieniem i izolacją ofiary. Pracownik mobbingujący wykorzystuje swoją przewagę i nierzadko pociąga za sobą grupę. Film “Diabeł ubiera się u Prady”, niby lekka obyczajowa komedia, ale ciekawe pokazuje studium zachowań mobbingowych w organizacji."
+pracy,Pracoholizm,"Jest kompulsywnym zaburzeniem zachowania wskazującym na istnienie nałogu, czyli uzależnienia się od pracy. Objawia się m.in. wykonywaniem pracy zawodowej w czasie wolnym od pracy, myśleniem o problemach związanych z pracą nawet wtedy, gdy się jest poza nią, pracowaniem ponad to, czego organizacja i warunki ekonomiczne wymagają od swoich pracowników, skutkuje to obniżeniem jakości wypoczynku, życia osobistego, w skrajnych przypadkach nawet śmiercią."
+pracy,Zespół wypalenia zawodowego,"Z punktu widzenia teorii stresu – długotrwałe przeciążenie organizmu sytuacją stresową, na co wpływa chroniczny brak wypoczynku i możliwości odpowiedniego regenerowania sił fizycznych i psychicznych, wynikającego z podejmowania ciągłych prób rozwiązywania sytuacji trudnych, sprostania oczekiwaniom i wymaganiom własnym oraz środowiska. Na możliwość wystąpienia tego zjawiska wpływa również rodzaj wykonywanej pracy i stopień zaangażowania emocjonalnego przy jej wykonywaniu, dlatego najczęściej związany jest z pracą z ludźmi. Ilustracją tego zjawiska jest główny bohater filmu ""Dzień świra""."
+sądowa,Efekt CSI,"Czy kiedykolwiek oglądałeś seriale o tematyce kryminalnej? Być może to zjawisko dotyczy również Ciebie! Efekt CSI został zaczerpnięty od amerykańskich seriali kryminalnych emitowanych od 2000 roku, popularnych na całym świecie (CSI: Crime Scene Investigation Miami, Los Angeles, NY). Polega na wzroście zainteresowania widzów tematyką kryminalną oraz wzrostem nieświadomości w tej dziedzinie. W serialu często pokazane są nieistniejące bądź niedostępne w wielu placówkach metody badań laboratoryjnych, wykorzystywane są fałszywe metody przesłuchań, a cała sprawa sądowa w serialu zwykle przebiega bez komplikacji i zostaje wyjaśniona „w godzinę”. Widzowie po obejrzeniu takich treści mają wrażenie, że znają się na tematyce kryminalistyki i zaczerpnęli wiedzy eksperckiej, bo film wydawał się realistyczny. Prowadzi to do wielu nieporozumień podczas procesów sądowych. Jest to bardzo uciążliwe w systemie prawnym common low, gdzie o winie lub niewinności orzeka ława przysięgłych. Ławnicy często żądają absurdalnych badań dowodów lub prowadzenia śledztwa w nierealny sposób."
+sądowa,Klasyfikacja skazanych,"Zastanawiałeś/aś się kiedyś jak wygląda jak wygląda selekcja skazanych, przed przydziałem do celi? Według jakich kryteriów dzieleni są więźniowie i jakie są rodzaje zakładów karnych? Klasyfikacja skazanych to podział na grupy mający zapewnić właściwe skierowanie skazanych do rodzaju i typu zakładu karnego, oraz systemu odbywania kary i mający na celu zapewnienie bezpieczeństwa więźniom i zapobieganie demoralizacji. Klasyfikacji dokonuje się ze względu na między innymi płeć, wiek, czy poprzednie wyroki, a decyduje o tym sąd i komisja penitencjarna. Dobrze ukazuje to serial Orange is the new black, gdzie ukazany jest kobiecy zakład karny."
+sądowa,Kryminologia,"Wiesz po czym rozpoznać przestępce, albo chciałbyś zrozumieć jego motywacje? Kryminologia jako dziedzina zajmująca się osobą sprawcy przestępstwa, przyczynami jego czynu i warunkami społecznymi, w jakich go dokonał, stara się odpowiedzieć na te wszystkie pytania. Jest to nauka społeczna zajmująca się badaniem i gromadzeniem całościowej wiedzy na temat przestępstwa, przestępczości jako pewnego zjawiska społecznego, a także osoby sprawcy, jak i również ofiary przestępstwa, a także metod zapobiegania i zwalczania przestępczości. Przykładów w popkulturze jest multum, a jednym z najpopularniejszych jest Sherlock Holmes, który podobno potrafi „odróżnić programistę komputerowego po krawacie, a pilota samolotów po jego kciuku”"
+sądowa,Techniki neutralizacji,"Każdy, kto choć raz w życiu doświadczył poczucia winy i wstydu, zgodzi się, że są to na tyle nieprzyjemne emocje, że dążymy do ich jak najskuteczniejszego wyciszenia. Teoria neutralizacji zakłada, że przestępcy nieustannie próbują reintegrować się ze społeczeństwem poprzez psychologiczne uznanie swoich dewiacyjnych zachowań za właściwie normatywne, przy użyciu ,,wymówek”. Psycholodzy wyróżniają pięć takich wymówek, zwanymi technikami neutralizacji. Są to: zaprzeczenie odpowiedzialności, zaprzeczenie krzywdy, zaprzeczenie ofiary, potępienie potępiających i zobowiązanie do lojalności. Odnoszą się one do szerszego pojęcia zniekształceń poznawczych, które, w dużym uproszczeniu, można rozróżnić na pierwotne i wtórne, gdzie do pierwszej grupy zaliczają się egocentryczne postawy i przekonania, a do drugiej obwinianie innych, czy minimalizowanie krzywdy. Warto jednak wiedzieć, że nie są to jedyne zjawiska, które wiążą się z dysfunkcjonalnym doświadczeniem poczucia winy, ponieważ wśród przestępców również często występują zaburzenia psychiczne, które znajdują swoje odzwierciedlenie w nieprawidłowym działaniu tych struktur i mechanizmów mózgowych, które odpowiedzialne są za przeżywanie między innymi lęku, empatii, poczucia winy i zdolności sprawowania samokontroli."
+sądowa,Trening zastępowania agresji (ART),"opiera się na teroii społecznego uczenia się Alberta Bandury, która zakłada, że każde zachowanie może być nabywane przez trening, modelowanie, obserwację. Zachowanie może zostać nabyte i wyuczone przez trening, co oznacza, że tą samą drogą może zostać zmodyfikowane. ART (Aggression Replacement Training) jest więc rozumiany jako podejście interwencyjne oraz jako forma psychoedukacji i jest stosowany wobec osób agresywnych, wchodzących w konflikty z prawem, wobec osób posiadających deficyty w zakresie postaw prospołecznych i społecznie akceptowalnych. Składa się z trzech modułów: treningu umiejętności społecznych/prospołecznych, treningu kontroli złości oraz treningu wnioskowania moralnego i podejmowania decyzji moralnych."
+sądowa,Rehabilitacja psychiatryczna,"Czy zastanawiałeś się czy osoby z poważnymi zaburzeniami psychicznymi mogą funkcjonować samodzielnie? Odpowiedź jak najbardziej brzmi tak! Rehabilitacja psychiatryczna ma na celu umożliwienie osobie chorej skompensowania funkcjonalnych deficytów oraz przełamanie interpersonalnych i środowiskowych barier związanych z niesprawnością. Także ma na celu umożliwić odbudowanie zdolności do niezależnego życia, socjalizacji i kierowania swoimi sprawami. Podejście to obejmuje zapewnienie pacjentom z zaburzeniami psychicznymi możliwości pracy, funkcjonowania w społeczności i cieszenia się życiem społecznym, z zachowaniem ich własnego tempa, w pełnej szacunku, wspierającej i realistycznej atmosferze."
+sądowa,Resocjalizacja penitencjarna,"Czy jest możliwy powrót do życia w społeczeństwie po pobycie w więzieniu? To wszystko zależy od czasu spędzonego w zamknięciu, a także od procesu resocjalizacji penitencjarnej. Proces ten ma charakter indywidualny i oparty jest o diagnozę resocjalizacyjną. Działania resocjalizacyjne mają na celu umożliwieć przystosowanie się człowieka do norm życia społecznego, rozwinięcia cech umożliwiających uspołecznienie i współuczestniczenie w kulturze, a co za tym idzie – wykształcenia własnej tożsamości. Osoby skazane jedynie poprzez ten proces mają możliwość readaptacji oraz reintegracji społecznej. Aby resocjalizacja skazanych więźniów mogła się odbyć w praktyce, konieczne jest aby zakład karny miał cechy instytucji o charakterze wychowawczym. W innym przypadku proces resocjalizacji nie będzie miał prawa bytu."
+sądowa,Readaptacja społeczna,Czy po odbyciu wymierzonej kary osadzony normalnie wraca do funkcjonowania w społeczeństwie? Odpowiedź brzmi tak i opisuje to zjawisko readaptacji społecznej. Jest to powrót do życia społecznego osób okresowo wyizolowanych z naturalnego środowiska przez pobyt w zakładzie karnym.  Opisuje ona przystosowanie się do wymogów i oczekiwań społecznych.
+sądowa,Profilowanie przestępców,"Miejsce popełnionej zbrodni to nie tylko źródło dowodów przestępstwa, ale również może pomóc w procesie profilowania nieznanego sprawcy. To jak zostaliśmy ukształtowani, w jakim środowisku dorastaliśmy, czego doświadczyliśmy i jakie cechy osobowości posiadamy wpływa w sposób bezpośredni na to, jak się zachowujemy, jakich wyborów dokonujemy i jak działamy. Typując sprawcę nie możemy wskazać konkretnej osoby, ale ustalając szereg jego cech jesteśmy w stanie w sposób znaczący ograniczyć listę potencjalnych sprawców."
