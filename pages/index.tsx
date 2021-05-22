@@ -1,4 +1,4 @@
-import { GetStaticProps } from "next";
+import { GetServerSideProps } from "next";
 import { Heading } from "../components/Heading";
 import { Cards } from "../components/Cards";
 import Layout from "../components/Layout";
@@ -18,7 +18,7 @@ const IndexPage = ({ data }: Props) => {
   );
 };
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getServerSideProps: GetServerSideProps = async () => {
   const data = await getData();
   return {
     props: {
